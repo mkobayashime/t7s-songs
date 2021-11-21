@@ -1,3 +1,5 @@
+ts-node = node --loader ts-node/esm
+
 install:
 	yarn
 
@@ -12,3 +14,7 @@ format: install
 
 format.check: install
 	yarn prettier --check .
+
+docgen.offVocal: install
+	$(ts-node) src/offVocal.ts
+	@make format
