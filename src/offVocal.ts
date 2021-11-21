@@ -9,7 +9,7 @@ import * as string from "fp-ts/lib/string.js"
 
 import type { Line, Songs } from "../types/offVocal"
 
-const getLiens = async (): Promise<Line[]> => {
+const getLines = async (): Promise<Line[]> => {
   const csv = await (
     await readFile(path.resolve("data", "offVocal.csv"))
   ).toString()
@@ -105,7 +105,7 @@ ${albumsMd}
 
 //
 ;(async () => {
-  const lines = await getLiens()
+  const lines = await getLines()
   const songs = groupBySong(lines)
   const doc = docgen(songs)
 
