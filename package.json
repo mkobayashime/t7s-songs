@@ -5,5 +5,10 @@
   "repository": "git@github.com:mkobayashime/t7s-songs.git",
   "author": "Masaki Kobayashi <contact@mkobayashi.me>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.4.1"
+  }
 }
