@@ -1,0 +1,9 @@
+{
+  "name": "t7s-songs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mkobayashime/t7s-songs.git",
+  "author": "Masaki Kobayashi <contact@mkobayashi.me>",
+  "license": "MIT",
+  "private": true
+}
