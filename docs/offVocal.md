@@ -462,9 +462,9 @@
 
   OFF VOCAL の前のハイフンがいわゆる半角ハイフン(`MINUS SIGN 0x2212`)ではなく `EN DASH 0x2013`. ビクターのサイト上でもこの表記.
 
-## Snow in ""I love you""
+## Snow in "I love you"
 
-`Snow in ""I love you"" -OFF VOCAL-`
+`Snow in "I love you" -OFF VOCAL-`
 
 ### 収録アルバム
 
