@@ -1,5 +1,17 @@
 # ナナシス楽曲オフボーカル音源まとめ
 
+## 14 歳のサマーソーダ
+
+`14 歳のサマーソーダ-OFF VOCAL-`
+
+### 収録アルバム
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
+
 ## Across the Rainbow
 
 `Across the Rainbow -OFF VOCAL-`
@@ -74,6 +86,18 @@
 
   プレミアムボックスのみ収録
 
+## CHECK’MATE
+
+`CHECK’MATE-OFF VOCAL-`
+
+### 収録アルバム
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
+
 ## シトラスは片想い
 
 `シトラスは片想い -OFF VOCAL-`
@@ -134,13 +158,19 @@
 
 ## Fire and Rose
 
-`Fire and Rose -OFF VOCAL-`
+`Fire and Rose-OFF VOCAL-`
 
 ### 収録アルバム
 
 - [TRIGGER / Fire and Rose](http://t7s.jp/release/cd/11.html)
 
   2016 年 10 月 26 日発売
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
 ## FUNBARE☆RUNNER
 
@@ -186,13 +216,19 @@
 
 ## ハルカゼ～ You were here ～
 
-`ハルカゼ～You were here～ -OFF VOCAL-`
+`ハルカゼ～You were here～-OFF VOCAL-`
 
 ### 収録アルバム
 
 - [ハルカゼ～ You were here ～](http://t7s.jp/release/cd/14.html)
 
   2017 年 4 月 19 日発売
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
 ## HEAVEN'S RAVE
 
@@ -216,6 +252,18 @@
 
   プレミアムボックス/初回限定盤のみ収録
 
+## ひまわりのストーリー
+
+`ひまわりのストーリー-OFF VOCAL-`
+
+### 収録アルバム
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
+
 ## ひよこのうた
 
 `ひよこのうた -OFF VOCAL-`
@@ -225,6 +273,18 @@
 - [ミツバチ](http://t7s.jp/release/cd/30.html)
 
   2019 年 6 月 19 日発売
+
+## 星屑 ☆ シーカー
+
+`星屑☆シーカー-OFF VOCAL-`
+
+### 収録アルバム
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
 ## コドーモ・デ・ヒーロ
 
@@ -270,13 +330,19 @@
 
 ## Lucky☆Lucky
 
-`Lucky☆Lucky -OFF VOCAL-`
+`Lucky☆Lucky-OFF VOCAL-`
 
 ### 収録アルバム
 
 - [Winning Day / Lucky☆Lucky](http://t7s.jp/release/cd/12.html)
 
   2016 年 12 月 7 日発売
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
 ## マスカレード・ナイト
 
@@ -354,9 +420,21 @@
 
   2019 年 6 月 19 日発売
 
-## PUNCH'D RANKER
+## プレシャス・セトラ
 
-`PUNCH'D RANKER-OFF VOCAL-`
+`プレシャス・セトラ-OFF VOCAL-`
+
+### 収録アルバム
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
+
+## PUNCH’D RANKER
+
+`PUNCH’D RANKER-OFF VOCAL-`
 
 ### 収録アルバム
 
@@ -365,6 +443,12 @@
   2017 年 7 月 26 日発売
 
   曲名と -OFF VOCAL- の間に半角スペースなし
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
 ## リボン
 
@@ -427,6 +511,18 @@
   2016 年 6 月 29 日発売
 
   プレミアムボックスのみ収録
+
+## SHAKE!!～フリフリしちゃえ～
+
+`SHAKE!!～フリフリしちゃえ～-OFF VOCAL-`
+
+### 収録アルバム
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
 ## Shooting Sky
 
@@ -510,15 +606,33 @@
 
   2017 年 8 月 30 日発売
 
+## スタートライン
+
+`スタートライン-OFF VOCAL-`
+
+### 収録アルバム
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
+
 ## STAY☆GOLD
 
-`STAY☆GOLD -OFF VOCAL-`
+`STAY☆GOLD-OFF VOCAL-`
 
 ### 収録アルバム
 
 - [スタートライン/STAY☆GOLD](http://t7s.jp/release/cd/16.html)
 
   2017 年 8 月 30 日発売
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
 ## SUN SUN SUN
 
@@ -534,13 +648,19 @@
 
 ## タンポポ
 
-`タンポポ -OFF VOCAL-`
+`タンポポ-OFF VOCAL-`
 
 ### 収録アルバム
 
 - [トワイライト / タンポポ](http://t7s.jp/release/cd/13.html)
 
   2016 年 12 月 7 日発売
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
 ## TREAT OR TREAT?
 
@@ -570,7 +690,7 @@
 
 ## TRIGGER
 
-`TRIGGER -OFF VOCAL-`
+`TRIGGER-OFF VOCAL-`
 
 ### 収録アルバム
 
@@ -578,9 +698,15 @@
 
   2016 年 10 月 26 日発売
 
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
+
 ## トワイライト
 
-`トワイライト -OFF VOCAL-`
+`トワイライト-OFF VOCAL-`
 
 ### 収録アルバム
 
@@ -588,9 +714,15 @@
 
   2016 年 12 月 7 日発売
 
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
+
 ## Winning Day
 
-`Winning Day -OFF VOCAL-`
+`Winning Day-OFF VOCAL-`
 
 ### 収録アルバム
 
@@ -598,9 +730,15 @@
 
   2016 年 12 月 7 日発売
 
-## WORLD'S END
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-`WORLD'S END-OFF VOCAL-`
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
+
+## WORLD’S END
+
+`WORLD’S END-OFF VOCAL-`
 
 ### 収録アルバム
 
@@ -609,6 +747,12 @@
   2017 年 7 月 26 日発売
 
   曲名と -OFF VOCAL- の間に半角スペースなし
+
+- [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
+
+  2018 年 7 月 4 日発売発売
+
+  プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
 ## YELLOW
 
