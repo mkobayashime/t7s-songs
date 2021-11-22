@@ -47,15 +47,8 @@ const docgen = (songs: Songs): string => {
       Map.toArray(string.Ord),
       A.map(([_, { title, titleOfOffVocal, albums }]) => {
         const albumsMd = albums
-          .map(
-            ({
-              albumTitle,
-              publishedAt,
-              albumDescription,
-              albumURL,
-              remarks,
-            }) =>
-              `
+          .map(({ albumTitle, publishedAt, albumURL, remarks }) =>
+            `
 - [${albumTitle}](${albumURL})
 
   ${publishedAt}発売
