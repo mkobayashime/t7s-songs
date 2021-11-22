@@ -13,31 +13,7 @@ const getLines = async (): Promise<Line[]> => {
   const csv = await (
     await readFile(path.resolve("data", "offVocal.csv"))
   ).toString()
-  const lines: string[][] = await parse(csv)
-
-  return lines
-    .slice(1)
-    .map(
-      ([
-        slug,
-        title,
-        titleOfOffVocal,
-        albumTitle,
-        publishedAt,
-        albumDescription,
-        albumURL,
-        remarks,
-      ]) => ({
-        slug,
-        title,
-        titleOfOffVocal,
-        albumTitle,
-        publishedAt,
-        albumDescription,
-        albumURL,
-        remarks,
-      }),
-    )
+  return await parse(csv, { columns: true })
 }
 
 const groupBySong = (lines: Line[]): Songs => {
