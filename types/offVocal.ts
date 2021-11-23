@@ -1,6 +1,6 @@
 import type { SongSlug } from "."
 
-export type SongColumns = "slug" | "title" | "titleOfOffVocal"
+export type SongColumns = "slug" | "titleOfOffVocal"
 export type AlbumColumns =
   | "albumTitle"
   | "publishedAt"
@@ -11,7 +11,7 @@ export type Columns = SongColumns | AlbumColumns
 
 export type Line = { [columnName in Columns]: string }
 
-export type Song = { [key in SongColumns]: string } & {
+export type Song = { [key in SongColumns]: string } & { title: string } & {
   albums: Array<{ [key in AlbumColumns]: string }>
 }
 
