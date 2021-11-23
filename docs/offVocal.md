@@ -230,7 +230,7 @@
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
-## HEAVEN'S RAVE
+## HEAVEN’S RAVE
 
 `HEAVEN'S RAVE -OFF VOCAL-`
 
@@ -410,7 +410,7 @@
 
   2019 年 6 月 19 日発売
 
-## NATSUKAGE-夏陰-
+## NATSUKAGE -夏陰-
 
 `NATSUKAGE-夏陰- -OFF VOCAL-`
 
@@ -460,7 +460,7 @@
 
   2020 年 11 月 25 日発売
 
-## さよならレイニーレディ
+## さよならレイニーレイディ
 
 `さよならレイニーレディ -OFF VOCAL-`
 
@@ -598,19 +598,13 @@
 
 ## スタートライン
 
-`スタートライン -OFF VOCAL-`
+`スタートライン-OFF VOCAL-`
 
 ### 収録アルバム
 
 - [スタートライン/STAY☆GOLD](http://t7s.jp/release/cd/16.html)
 
   2017 年 8 月 30 日発売
-
-## スタートライン
-
-`スタートライン-OFF VOCAL-`
-
-### 収録アルバム
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
@@ -770,7 +764,7 @@
 
   プレミアムボックスのみ収録
 
-## You Can't Win
+## You Can’t Win
 
 `You Can't Win -OFF VOCAL-`
 
