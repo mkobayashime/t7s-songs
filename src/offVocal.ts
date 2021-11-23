@@ -7,6 +7,7 @@ import * as O from "fp-ts/lib/Option.js"
 import * as A from "fp-ts/lib/Array.js"
 import * as Map from "fp-ts/lib/Map.js"
 import * as string from "fp-ts/lib/string.js"
+import { songsMap } from "../data/songs.js"
 
 import type { Line, Songs } from "../types/offVocal"
 
@@ -22,14 +23,18 @@ const groupBySong = (lines: Line[]): Songs => {
     lines,
     A.reduce<Line, Songs>(
       new global.Map(),
-      (acc, { slug, title, titleOfOffVocal, ...album }) => {
+      (acc, { slug, titleOfOffVocal, ...album }) => {
         const song = pipe(acc, Map.lookup(string.Eq)(slug))
+
+        const originalSong = songsMap.get(slug)
+        if (!originalSong)
+          throw new Error(`Song with slug "${slug}" not found.`)
 
         return pipe(
           acc,
           Map.upsertAt(string.Eq)(slug, {
             slug,
-            title,
+            title: originalSong.title,
             titleOfOffVocal,
 
             albums: O.isSome(song) ? [...song.value.albums, album] : [album],
