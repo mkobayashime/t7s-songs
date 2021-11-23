@@ -2,12 +2,13 @@ import { readFile, writeFile } from "fs/promises"
 import path from "path"
 import { parse } from "csv-parse/sync"
 import { pipe } from "fp-ts/lib/function.js"
+import * as Ord from "fp-ts/lib/Ord.js"
 import * as O from "fp-ts/lib/Option.js"
 import * as A from "fp-ts/lib/Array.js"
 import * as Map from "fp-ts/lib/Map.js"
 import * as string from "fp-ts/lib/string.js"
 
-import type { Line, Songs } from "../types/offVocal"
+import type { Line, Song, Songs } from "../types/offVocal"
 
 const getLines = async (): Promise<Line[]> => {
   const csv = await (
@@ -44,8 +45,13 @@ const docgen = (songs: Songs): string => {
     "# ナナシス楽曲オフボーカル音源まとめ\n\n" +
     pipe(
       songs,
-      Map.toArray(string.Ord),
-      A.map(([_, { title, titleOfOffVocal, albums }]) => {
+      Map.values(
+        pipe(
+          string.Ord,
+          Ord.contramap(({ slug }) => slug),
+        ),
+      ),
+      A.map(({ title, titleOfOffVocal, albums }) => {
         const albumsMd = albums
           .map(({ albumTitle, publishedAt, albumURL, remarks }) =>
             `
