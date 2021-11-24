@@ -11,3 +11,5 @@ export type Song = Readonly<{
   description: string
   image: string
 }>
+
+export type SongsMap = Map<SongSlug, Song>

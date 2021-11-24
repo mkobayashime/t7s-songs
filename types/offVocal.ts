@@ -11,8 +11,10 @@ export type Columns = SongColumns | AlbumColumns
 
 export type Line = { [columnName in Columns]: string }
 
-export type Song = { [key in SongColumns]: string } & { title: string } & {
+export type OffVocalSong = { [key in SongColumns]: string } & {
+  title: string
+} & {
   albums: Array<{ [key in AlbumColumns]: string }>
 }
 
-export type Songs = Map<SongSlug, Song>
+export type OffVocalSongs = Map<SongSlug, OffVocalSong>

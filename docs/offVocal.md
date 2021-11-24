@@ -1,5 +1,77 @@
 # ナナシス楽曲オフボーカル音源まとめ
 
+## オフボーカル音源未発売
+
+- 秋の空とこころ コスモス
+
+- 青空 Emotion
+
+- AOZORA TRAIN
+
+- B.A.A.B.
+
+- Clash!!!
+
+- Clover×Clover
+
+- Cocoro Magical
+
+- Crazy Girl’s Beat
+
+- DAYS
+
+- Girls Talk!!
+
+- H-A-J-I-M-A-R-I-U-T-A-!!
+
+- Hello...my friend
+
+- Hello…my friend(EMO edit)
+
+- Hello…my friend(HINA edit)
+
+- I AM
+
+- KID BLUE ～裸の王様～
+
+- KILL☆ER☆TUNE☆R
+
+- 恋をして
+
+- 恋セヨ乙女
+
+- Majesty
+
+- メロディーフラッグ
+
+- オ・モ・イ アプローチ
+
+- お願い ☆My Boy
+
+- パフェ・デ・ラブソング
+
+- プレゼント・フォー・ユー
+
+- PRIZM♪RIZM
+
+- Purple Raze
+
+- R.B.E.
+
+- ROCK な ☆ アタシ
+
+- SAKURA
+
+- Sparkle☆Time!!
+
+- たいくつりぼん
+
+- THUNDERBOLT
+
+- Wake Up Heroine
+
+- ワタシ・愛・forU!!
+
 ## 14 歳のサマーソーダ
 
 `14 歳のサマーソーダ-OFF VOCAL-`
