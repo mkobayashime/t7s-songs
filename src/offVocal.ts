@@ -6,10 +6,12 @@ import * as Ord from "fp-ts/lib/Ord.js"
 import * as O from "fp-ts/lib/Option.js"
 import * as A from "fp-ts/lib/Array.js"
 import * as Map from "fp-ts/lib/Map.js"
+import * as Set from "fp-ts/lib/Set.js"
 import * as string from "fp-ts/lib/string.js"
 import { songsMap } from "../data/songs.js"
 
-import type { Line, Songs } from "../types/offVocal"
+import type { SongsMap } from "../types"
+import type { Line, OffVocalSongs } from "../types/offVocal"
 
 const getLines = async (): Promise<Line[]> => {
   const csv = await (
@@ -18,10 +20,35 @@ const getLines = async (): Promise<Line[]> => {
   return await parse(csv, { columns: true })
 }
 
-const groupBySong = (lines: Line[]): Songs => {
+const findSongsWithNoOffVocals = (lines: Line[]): SongsMap => {
+  const originalSongSlugs = pipe(
+    songsMap,
+    Map.keys(string.Ord),
+    (e) => e,
+    Set.fromArray(string.Eq),
+  )
+  const offVocalSongSlugs = pipe(
+    lines,
+    A.map(({ slug }) => slug),
+    Set.fromArray(string.Eq),
+  )
+  const songsWithNoOffVocalSlugs = pipe(
+    originalSongSlugs,
+    Set.difference(string.Eq)(offVocalSongSlugs),
+  )
+
+  return pipe(
+    songsMap,
+    Map.filter(({ slug }) =>
+      pipe(songsWithNoOffVocalSlugs, Set.elem(string.Eq)(slug)),
+    ),
+  )
+}
+
+const groupBySong = (lines: Line[]): OffVocalSongs => {
   return pipe(
     lines,
-    A.reduce<Line, Songs>(
+    A.reduce<Line, OffVocalSongs>(
       new global.Map(),
       (acc, { slug, titleOfOffVocal, ...album }) => {
         const song = pipe(acc, Map.lookup(string.Eq)(slug))
@@ -45,11 +72,25 @@ const groupBySong = (lines: Line[]): Songs => {
   )
 }
 
-const docgen = (songs: Songs): string => {
-  return (
-    "# ナナシス楽曲オフボーカル音源まとめ\n\n" +
+const docgen = (
+  offVocalSongs: OffVocalSongs,
+  songsWithNoOffVocal: SongsMap,
+): string => {
+  return [
+    "# ナナシス楽曲オフボーカル音源まとめ",
+    "## オフボーカル音源未発売",
     pipe(
-      songs,
+      songsWithNoOffVocal,
+      Map.values(
+        pipe(
+          string.Ord,
+          Ord.contramap(({ slug }) => slug),
+        ),
+      ),
+      A.map(({ title }) => `- ${title}`),
+    ).join("\n\n"),
+    pipe(
+      offVocalSongs,
       Map.values(
         pipe(
           string.Ord,
@@ -79,15 +120,16 @@ const docgen = (songs: Songs): string => {
 ${albumsMd}
     `.trim()
       }),
-    ).join("\n\n")
-  )
+    ).join("\n\n"),
+  ].join("\n\n")
 }
 
 //
 ;(async () => {
   const lines = await getLines()
   const songs = groupBySong(lines)
-  const doc = docgen(songs)
+  const songsWithNoOffVocal = findSongsWithNoOffVocals(lines)
+  const doc = docgen(songs, songsWithNoOffVocal)
 
   await writeFile(path.resolve("docs", "offVocal.md"), doc)
 })()
