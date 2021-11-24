@@ -299,7 +299,7 @@ export const songs: Song[] = [
   },
   {
     slug: "helloMyFriendEmo",
-    title: "Hello…my friend(EMO edit)",
+    title: "Hello...my friend(EMO edit)",
     officialId: 38,
     publishedAt: "2017年5月25日",
     description: "4U 5th single",
@@ -307,7 +307,7 @@ export const songs: Song[] = [
   },
   {
     slug: "helloMyFriendHina",
-    title: "Hello…my friend(HINA edit)",
+    title: "Hello...my friend(HINA edit)",
     officialId: 39,
     publishedAt: "2017年6月22日",
     description: "4U 6th single",
