@@ -769,6 +769,14 @@ export const songs: Song[] = [
     description: "Le☆S☆Ca 9th single",
     image: "http://t7s.jp/image/page/release/ingame/cover/96.png",
   },
+  {
+    slug: "donKanBoy",
+    title: "Don! Kan! Boy!",
+    officialId: 97,
+    publishedAt: "2021年11月24日",
+    description: "Ci+LUS 5th single",
+    image: "http://t7s.jp/image/page/release/ingame/cover/97.png",
+  },
 ]
 
 export const songsMap: Map<SongSlug, Song> = new global.Map(
