@@ -28,9 +28,9 @@
 
 - Hello...my friend
 
-- Hello…my friend(EMO edit)
+- Hello...my friend(EMO edit)
 
-- Hello…my friend(HINA edit)
+- Hello...my friend(HINA edit)
 
 - I AM
 
