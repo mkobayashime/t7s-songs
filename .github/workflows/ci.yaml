@@ -39,6 +39,6 @@ jobs:
       - name: Install dependencies
         run: yarn --frozen-lockfile
       - name: Docgen
-        run: make docgen.offVocal
+        run: make docgen
       - name: Check uncommitted changes
         run: test -z "$(git status --porcelain)"

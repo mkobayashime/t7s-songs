@@ -18,3 +18,5 @@ format.check: install
 docgen.offVocal: install
 	$(ts-node) src/offVocal.ts
 	@make format
+
+docgen: docgen.offVocal
