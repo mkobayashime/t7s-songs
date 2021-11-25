@@ -24,7 +24,6 @@ const findSongsWithNoOffVocals = (lines: Line[]): SongsMap => {
   const originalSongSlugs = pipe(
     songsMap,
     Map.keys(string.Ord),
-    (e) => e,
     Set.fromArray(string.Eq),
   )
   const offVocalSongSlugs = pipe(
