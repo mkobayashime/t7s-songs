@@ -1,19 +1,21 @@
+eslint = yarn eslint --ignore-path .gitignore
+prettier = yarn prettier --ignore-path .gitignore
 ts-node = node --loader ts-node/esm
 
 install:
 	yarn
 
 lint: install
-	yarn eslint .
+	$(eslint) .
 
 lint.fix: install
-	yarn eslint --fix .
+	$(eslint) --fix .
 
 format: install
-	yarn prettier --write .
+	$(prettier) --write .
 
 format.check: install
-	yarn prettier --check .
+	$(prettier) --check .
 
 docgen.offVocal: install
 	$(ts-node) src/offVocal.ts
