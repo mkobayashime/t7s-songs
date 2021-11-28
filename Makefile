@@ -2,22 +2,23 @@ eslint = yarn eslint --ignore-path .gitignore
 prettier = yarn prettier --ignore-path .gitignore
 ts-node = node --loader ts-node/esm
 
-install:
+node_modules: package.json yarn.lock
 	yarn
+	@touch node_modules
 
-lint: install
+lint: node_modules
 	$(eslint) .
 
-lint.fix: install
+lint.fix: node_modules
 	$(eslint) --fix .
 
-format: install
+format: node_modules
 	$(prettier) --write .
 
-format.check: install
+format.check: node_modules
 	$(prettier) --check .
 
-docgen.offVocal: install
+docgen.offVocal: node_modules
 	$(ts-node) src/offVocal.ts
 	@make format
 
