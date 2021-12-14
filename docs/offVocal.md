@@ -2,8 +2,6 @@
 
 ## オフボーカル音源未発売
 
-- 秋の空とこころ コスモス
-
 - 青空 Emotion
 
 - AOZORA TRAIN
@@ -37,10 +35,6 @@
 - KID BLUE ～裸の王様～
 
 - KILL☆ER☆TUNE☆R
-
-- 恋をして
-
-- 恋セヨ乙女
 
 - Majesty
 
@@ -115,6 +109,16 @@
 - [LOVE AND DEVIL / アイノシズク](http://t7s.jp/release/cd/37.html)
 
   2020 年 3 月 4 日発売
+
+## 秋の空とこころ コスモス
+
+`秋の空とこころ コスモス -OFF VOCAL-`
+
+### 収録アルバム
+
+- [秋の空とこころ コスモス](http://t7s.jp/release/cd/47.html)
+
+  2021 年 12 月 14 日発売
 
 ## AMATERRAS
 
@@ -369,6 +373,26 @@
 - [Fall in Love](http://t7s.jp/release/cd/36.html)
 
   2020 年 2 月 12 日発売
+
+## 恋をして
+
+`恋をして -OFF VOCAL-`
+
+### 収録アルバム
+
+- [恋をして](http://t7s.jp/release/cd/48.html)
+
+  2021 年 12 月 14 日発売
+
+## 恋セヨ乙女
+
+`恋セヨ乙女 -OFF VOCAL-`
+
+### 収録アルバム
+
+- [恋セヨ乙女](http://t7s.jp/release/cd/46.html)
+
+  2021 年 12 月 14 日発売
 
 ## LOVE AND DEVIL
 
