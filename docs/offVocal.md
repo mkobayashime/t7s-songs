@@ -414,18 +414,6 @@
 
   2018 年 10 月 10 日発売
 
-## ラバ × ラバ
-
-`ラバ×ラバ -OFF VOCAL-`
-
-### 収録アルバム
-
-- [Are You Ready 7th-TYPES??](http://t7s.jp/release/cd/10.html)
-
-  2016 年 6 月 29 日発売
-
-  プレミアムボックスのみ収録
-
 ## Lucky☆Lucky
 
 `Lucky☆Lucky-OFF VOCAL-`
@@ -557,6 +545,18 @@
 - [Across the Rainbow](http://t7s.jp/release/cd/41.html)
 
   2020 年 11 月 25 日発売
+
+## ラバ × ラバ
+
+`ラバ×ラバ -OFF VOCAL-`
+
+### 収録アルバム
+
+- [Are You Ready 7th-TYPES??](http://t7s.jp/release/cd/10.html)
+
+  2016 年 6 月 29 日発売
+
+  プレミアムボックスのみ収録
 
 ## さよならレイニーレイディ
 
