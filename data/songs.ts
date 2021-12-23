@@ -194,7 +194,7 @@ export const songs: Song[] = [
     image: "http://t7s.jp/image/page/release/ingame/cover/24.png",
   },
   {
-    slug: "loverLover",
+    slug: "robberLover",
     title: "ラバ×ラバ",
     officialId: 25,
     publishedAt: "2016年3月24日",
