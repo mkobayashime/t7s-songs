@@ -777,6 +777,14 @@ export const songs: Song[] = [
     description: "Ci+LUS 5th single",
     image: "http://t7s.jp/image/page/release/ingame/cover/97.png",
   },
+  {
+    slug: "holyQueen",
+    title: "HOLY QUEEN",
+    officialId: 99,
+    publishedAt: "2021年12月19日",
+    description: "",
+    image: "http://t7s.jp/image/page/release/ingame/cover/99.png",
+  },
 ]
 
 export const songsMap: Map<SongSlug, Song> = new global.Map(

@@ -30,6 +30,8 @@
 
 - Hello...my friend(HINA edit)
 
+- HOLY QUEEN
+
 - I AM
 
 - KID BLUE ～裸の王様～
