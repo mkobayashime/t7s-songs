@@ -62,6 +62,8 @@
 
 - Sparkle☆Time!!
 
+- Striking Diamond
+
 - たいくつりぼん
 
 - THUNDERBOLT

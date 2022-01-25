@@ -785,6 +785,14 @@ export const songs: Song[] = [
     description: "",
     image: "http://t7s.jp/image/page/release/ingame/cover/99.png",
   },
+  {
+    slug: "strikingDiamond",
+    title: "Striking Diamond",
+    officialId: 100,
+    publishedAt: "2022年1月25日",
+    description: "ジェダ・ダイヤモンド　デビューソング",
+    image: "http://t7s.jp/image/page/release/ingame/cover/100.png",
+  },
 ]
 
 export const songsMap: Map<SongSlug, Song> = new global.Map(
