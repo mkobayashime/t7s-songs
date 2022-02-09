@@ -782,7 +782,7 @@ export const songs: Song[] = [
     title: "HOLY QUEEN",
     officialId: 99,
     publishedAt: "2021年12月19日",
-    description: "",
+    description: "CASQUETTE'S 4th single",
     image: "http://t7s.jp/image/page/release/ingame/cover/99.png",
   },
   {
