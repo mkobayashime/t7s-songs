@@ -793,6 +793,14 @@ export const songs: Song[] = [
     description: "ジェダ・ダイヤモンド　デビューソング",
     image: "http://t7s.jp/image/page/release/ingame/cover/100.png",
   },
+  {
+    slug: "beYourLight",
+    title: "Be Your Light",
+    officialId: 1001,
+    publishedAt: "2022年2月27日",
+    description: "Stella MiNE 1st Single",
+    image: "https://t7s.jp/image/page/release/ingame/cover/1001.png",
+  },
 ]
 
 export const songsMap: Map<SongSlug, Song> = new global.Map(
