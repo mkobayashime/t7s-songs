@@ -32,6 +32,8 @@
 
 - Hello...my friend(HINA edit)
 
+- 陽だまりの世界地図
+
 - HOLY QUEEN
 
 - I AM
