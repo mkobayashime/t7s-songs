@@ -801,6 +801,14 @@ export const songs: Song[] = [
     description: "Stella MiNE 1st Single",
     image: "https://t7s.jp/image/page/release/ingame/cover/1001.png",
   },
+  {
+    slug: "hidamari",
+    title: "陽だまりの世界地図",
+    officialId: 98,
+    publishedAt: "2022年3月29日",
+    description: "SEASON OF LOVE 2nd single",
+    image: "https://t7s.jp/image/page/release/ingame/cover/98.png",
+  },
 ]
 
 export const songsMap: Map<SongSlug, Song> = new global.Map(
