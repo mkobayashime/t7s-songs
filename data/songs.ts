@@ -809,6 +809,14 @@ export const songs: Song[] = [
     description: "SEASON OF LOVE 2nd single",
     image: "https://t7s.jp/image/page/release/ingame/cover/98.png",
   },
+  {
+    slug: "starlightAsterism",
+    title: "Starlight☆Asterism!!!",
+    officialId: 1002,
+    publishedAt: "2022年4月26日",
+    description: "Asterline 1st single",
+    image: "https://t7s.jp/image/page/release/ingame/cover/1002.png",
+  },
 ]
 
 export const songsMap: Map<SongSlug, Song> = new global.Map(
