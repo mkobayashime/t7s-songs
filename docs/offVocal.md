@@ -66,6 +66,8 @@
 
 - Sparkle☆Time!!
 
+- Starlight☆Asterism!!!
+
 - Striking Diamond
 
 - たいくつりぼん
