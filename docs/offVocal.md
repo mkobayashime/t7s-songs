@@ -20,6 +20,8 @@
 
 - DAYS
 
+- Daze forU!!
+
 - Don! Kan! Boy!
 
 - Girls Talk!!

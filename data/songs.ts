@@ -817,6 +817,14 @@ export const songs: Song[] = [
     description: "Asterline 1st single",
     image: "https://t7s.jp/image/page/release/ingame/cover/1002.png",
   },
+  {
+    slug: "dazeForU",
+    title: "Daze forU!!",
+    officialId: 101,
+    publishedAt: "2022年5月10日",
+    description: "4U 14th single",
+    image: "https://t7s.jp/image/page/release/ingame/cover/101.png",
+  },
 ]
 
 export const songsMap: Map<SongSlug, Song> = new global.Map(
