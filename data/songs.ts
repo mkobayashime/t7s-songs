@@ -825,6 +825,14 @@ export const songs: Song[] = [
     description: "4U 14th single",
     image: "https://t7s.jp/image/page/release/ingame/cover/101.png",
   },
+  {
+    slug: "reachMeteor",
+    title: "Reach for the Meteor",
+    officialId: 1003,
+    publishedAt: "2022年5月24日",
+    description: "Asterline 2nd Single",
+    image: "https://t7s.jp/image/page/release/ingame/cover/1003.png",
+  },
 ]
 
 export const songsMap: Map<SongSlug, Song> = new global.Map(
