@@ -90,7 +90,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -186,7 +186,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -260,7 +260,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -318,7 +318,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -352,7 +352,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -374,7 +374,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -440,7 +440,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -528,7 +528,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -546,7 +546,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -632,7 +632,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -720,7 +720,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -736,7 +736,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -764,7 +764,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -806,7 +806,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -822,7 +822,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -838,7 +838,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
@@ -856,7 +856,7 @@
 
 - [THE STRAIGHT LIGHT](http://t7s.jp/release/cd/20.html)
 
-  2018 年 7 月 4 日発売発売
+  2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 

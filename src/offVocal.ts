@@ -20,6 +20,15 @@ const getLines = async (): Promise<Line[]> => {
   return await parse(csv, { columns: true })
 }
 
+const normalizeLines = (lines: Line[]) => {
+  return lines.map((line) => ({
+    ...line,
+    publishedAt: line.publishedAt.includes("発売")
+      ? line.publishedAt.replace("発売", "")
+      : line.publishedAt,
+  }))
+}
+
 const findSongsWithNoOffVocals = (lines: Line[]): SongsMap => {
   const originalSongSlugs = pipe(
     songsMap,
@@ -125,7 +134,7 @@ ${albumsMd}
 
 //
 ;(async () => {
-  const lines = await getLines()
+  const lines = normalizeLines(await getLines())
   const songs = groupBySong(lines)
   const songsWithNoOffVocal = findSongsWithNoOffVocals(lines)
   const doc = docgen(songs, songsWithNoOffVocal)
