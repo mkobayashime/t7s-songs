@@ -22,6 +22,8 @@ jobs:
         run: make lint
       - name: Prettier
         run: make format.check
+      - name: Test
+        run: make test
 
   up-to-date-doc:
     name: Up-to-date docs
