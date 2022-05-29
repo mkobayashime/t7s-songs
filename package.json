@@ -8,6 +8,7 @@
   "private": true,
   "type": "module",
   "devDependencies": {
+    "@tsconfig/strictest": "^1.0.1",
     "@types/jest": "^27.5.1",
     "@types/node": "^17.0.21",
     "@typescript-eslint/eslint-plugin": "^5.13.0",
