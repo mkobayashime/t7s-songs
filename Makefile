@@ -18,6 +18,12 @@ format: node_modules
 format.check: node_modules
 	$(prettier) --check .
 
+test:
+	yarn run jest
+
+test.watch:
+	yarn run jest --watch
+
 docgen.offVocal: node_modules
 	$(ts-node) src/offVocal.ts
 	@make format
