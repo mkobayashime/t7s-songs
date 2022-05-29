@@ -1,8 +1,10 @@
-import { offVocals } from "."
-import { songsMap } from "../songs"
+import { pipe } from "fp-ts/function"
 import * as Map from "fp-ts/Map"
 import * as string from "fp-ts/string"
-import { pipe } from "fp-ts/function"
+
+import { songsMap } from "../songs"
+
+import { offVocals } from "."
 
 it("has valid song slugs", () => {
   offVocals.forEach(({ slug }) => {

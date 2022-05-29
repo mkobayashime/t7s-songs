@@ -1,5 +1,6 @@
-import { songs, songsMap } from "."
 import * as Map from "fp-ts/Map"
+
+import { songs, songsMap } from "."
 
 it("has unique song slugs", () => {
   const uniqueSlugs = Array.from(new Set(songs.map(({ slug }) => slug)))
