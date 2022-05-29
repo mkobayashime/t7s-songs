@@ -7,7 +7,7 @@ import * as A from "fp-ts/lib/Array.js"
 import * as Map from "fp-ts/lib/Map.js"
 import * as Set from "fp-ts/lib/Set.js"
 import * as string from "fp-ts/lib/string.js"
-import { songsMap } from "../data/songs.js"
+import { songsMap } from "../data/songs"
 import { offVocals } from "../data/offVocal"
 
 import type { SongsMap } from "../types"

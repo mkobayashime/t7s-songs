@@ -1,4 +1,4 @@
-import { songs } from "./songs"
+import { songs } from "."
 
 it("has unique song slugs", () => {
   const slugs = songs.map(({ slug }) => slug)
