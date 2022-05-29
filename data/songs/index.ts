@@ -1,4 +1,4 @@
-import type { Song, SongSlug } from "../types"
+import type { Song, SongSlug } from "../../types"
 
 export const songs: Song[] = [
   {
