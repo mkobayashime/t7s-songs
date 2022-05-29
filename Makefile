@@ -18,6 +18,12 @@ format: node_modules
 format.check: node_modules
 	$(prettier) --check .
 
+typecheck: node_modules
+	yarn tsc --noEmit
+
+typecheck.watch: node_modules
+	yarn tsc --noEmit --watch
+
 test:
 	yarn run jest
 
