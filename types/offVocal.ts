@@ -1,20 +1,24 @@
 import type { SongSlug } from "."
 
-export type SongColumns = "slug" | "titleOfOffVocal"
-export type AlbumColumns =
-  | "albumTitle"
-  | "publishedAt"
-  | "albumDescription"
-  | "albumURL"
-  | "remarks"
-export type Columns = SongColumns | AlbumColumns
-
-export type Line = { [columnName in Columns]: string }
-
-export type OffVocalSong = { [key in SongColumns]: string } & {
+type Album = {
   title: string
-} & {
-  albums: Array<{ [key in AlbumColumns]: string }>
+  publishedAt: string
+  description: string
+  url: string
+  remarks: string
+}
+
+export type OffVocalItem = {
+  slug: string
+  titleOfOffVocal: string
+  album: Album
+}
+
+export type OffVocalSong = {
+  slug: string
+  titleOfOffVocal: string
+  title: string
+  albums: Album[]
 }
 
 export type OffVocalSongs = Map<SongSlug, OffVocalSong>

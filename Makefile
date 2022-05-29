@@ -1,6 +1,6 @@
 eslint = yarn eslint --ignore-path .gitignore
 prettier = yarn prettier --ignore-path .gitignore
-ts-node = node --loader ts-node/esm
+ts-node = node --loader ts-node/esm --experimental-specifier-resolution=node
 
 node_modules: package.json yarn.lock
 	yarn
