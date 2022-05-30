@@ -1,6 +1,6 @@
 {
   "include": ["**/*.ts"],
-  "extends": "@tsconfig/strictest/tsconfig.json",
+  "extends": "@tsconfig/recommended/tsconfig.json",
   "compilerOptions": {
     "module": "ES2022",
     "moduleResolution": "Node",
