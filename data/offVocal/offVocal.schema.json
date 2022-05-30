@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$ref": "#/definitions/Schema",
+  "definitions": {
+    "Schema": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "$schema": {
+          "type": "string"
+        },
+        "value": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Value"
+          }
+        }
+      },
+      "required": ["$schema", "value"],
+      "title": "Schema"
+    },
+    "Value": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "slug": {
+          "type": "string"
+        },
+        "titleOfOffVocal": {
+          "type": "string"
+        },
+        "album": {
+          "$ref": "#/definitions/Album"
+        }
+      },
+      "required": ["album", "slug", "titleOfOffVocal"],
+      "title": "Value"
+    },
+    "Album": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "qt-uri-protocols": ["http"],
+          "qt-uri-extensions": [".html"]
+        },
+        "publishedAt": {
+          "type": "string"
+        },
+        "remarks": {
+          "type": "string"
+        }
+      },
+      "required": ["description", "publishedAt", "remarks", "title", "url"],
+      "title": "Album"
+    }
+  }
+}
