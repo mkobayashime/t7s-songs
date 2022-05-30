@@ -1,937 +1,940 @@
-[
-  {
-    "slug": "minusZero",
-    "titleOfOffVocal": "-Zero -OFF VOCAL-",
-    "album": {
-      "title": "-Zero / TREAT OR TREAT?",
-      "description": "t7s HALLOWEEN EP",
-      "url": "http://t7s.jp/release/cd/06.html",
-      "publishedAt": "2015年10月28日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "treatOrTreat",
-    "titleOfOffVocal": "TREAT OR TREAT? -OFF VOCAL-",
-    "album": {
-      "title": "-Zero / TREAT OR TREAT?",
-      "description": "t7s HALLOWEEN EP",
-      "url": "http://t7s.jp/release/cd/06.html",
-      "publishedAt": "2015年10月28日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "yellow",
-    "titleOfOffVocal": "YELLOW -OFF VOCAL-",
-    "album": {
-      "title": "YELLOW",
-      "description": "Le☆S☆Ca 1stシングル",
-      "url": "http://t7s.jp/release/cd/07.html",
-      "publishedAt": "2015年12月9日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "behindMoon",
-    "titleOfOffVocal": "Behind Moon -OFF VOCAL-",
-    "album": {
-      "title": "YELLOW",
-      "description": "Le☆S☆Ca 1stシングル",
-      "url": "http://t7s.jp/release/cd/07.html",
-      "publishedAt": "2015年12月9日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "snowIn",
-    "titleOfOffVocal": "Snow in \"I love you\" -OFF VOCAL-",
-    "album": {
-      "title": "Snow in \"I love you\"",
-      "description": "777☆SISTERS 2ndシングル",
-      "url": "http://t7s.jp/release/cd/08.html",
-      "publishedAt": "2015年12月9日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "haneru",
-    "titleOfOffVocal": "ハネ☆る!! -OFF VOCAL-",
-    "album": {
-      "title": "Snow in \"I love you\"",
-      "description": "777☆SISTERS 2ndシングル",
-      "url": "http://t7s.jp/release/cd/08.html",
-      "publishedAt": "2015年12月9日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "bokuraHaAozora",
-    "titleOfOffVocal": "僕らは青空になる -OFF VOCAL-",
-    "album": {
-      "title": "僕らは青空になる / FUNBARE☆RUNNER",
-      "description": "777☆SISTERS 両A面1stシングル",
-      "url": "http://t7s.jp/release/cd/04.html",
-      "publishedAt": "2015年7月29日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "funbare",
-    "titleOfOffVocal": "FUNBARE☆RUNNER -OFF VOCAL-",
-    "album": {
-      "title": "僕らは青空になる / FUNBARE☆RUNNER",
-      "description": "777☆SISTERS 両A面1stシングル",
-      "url": "http://t7s.jp/release/cd/04.html",
-      "publishedAt": "2015年7月29日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "starGlitter",
-    "titleOfOffVocal": "Star☆Glitter【Original Instrumental】",
-    "album": {
-      "title": "The Things She Loved",
-      "description": "t7s オリジナルサウンドトラック",
-      "url": "http://t7s.jp/release/cd/05.html",
-      "publishedAt": "2015年8月14日",
-      "remarks": "【Original Instrumental】表記"
-    }
-  },
-  {
-    "slug": "trigger",
-    "titleOfOffVocal": "TRIGGER -OFF VOCAL-",
-    "album": {
-      "title": "TRIGGER / Fire and Rose",
-      "description": "The QUEEN of PURPLE 1stシングル",
-      "url": "http://t7s.jp/release/cd/11.html",
-      "publishedAt": "2016年10月26日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "fireAndRose",
-    "titleOfOffVocal": "Fire and Rose -OFF VOCAL-",
-    "album": {
-      "title": "TRIGGER / Fire and Rose",
-      "description": "The QUEEN of PURPLE 1stシングル",
-      "url": "http://t7s.jp/release/cd/11.html",
-      "publishedAt": "2016年10月26日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "winningDay",
-    "titleOfOffVocal": "Winning Day -OFF VOCAL-",
-    "album": {
-      "title": "Winning Day / Lucky☆Lucky",
-      "description": "New EP",
-      "url": "http://t7s.jp/release/cd/12.html",
-      "publishedAt": "2016年12月7日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "luckyLucky",
-    "titleOfOffVocal": "Lucky☆Lucky -OFF VOCAL-",
-    "album": {
-      "title": "Winning Day / Lucky☆Lucky",
-      "description": "New EP",
-      "url": "http://t7s.jp/release/cd/12.html",
-      "publishedAt": "2016年12月7日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "twilight",
-    "titleOfOffVocal": "トワイライト -OFF VOCAL-",
-    "album": {
-      "title": "トワイライト / タンポポ",
-      "description": "Le☆S☆Ca 2ndシングル",
-      "url": "http://t7s.jp/release/cd/13.html",
-      "publishedAt": "2016年12月7日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "tanpopo",
-    "titleOfOffVocal": "タンポポ -OFF VOCAL-",
-    "album": {
-      "title": "トワイライト / タンポポ",
-      "description": "Le☆S☆Ca 2ndシングル",
-      "url": "http://t7s.jp/release/cd/13.html",
-      "publishedAt": "2016年12月7日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "seventhHaven",
-    "titleOfOffVocal": "SEVENTH HAVEN -OFF VOCAL-",
-    "album": {
-      "title": "SEVENTH HAVEN",
-      "description": "セブンスシスターズ 1stシングル",
-      "url": "http://t7s.jp/release/cd/09.html",
-      "publishedAt": "2016年2月24日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "fallingDown",
-    "titleOfOffVocal": "FALLING DOWN -OFF VOCAL-",
-    "album": {
-      "title": "SEVENTH HAVEN",
-      "description": "セブンスシスターズ 1stシングル",
-      "url": "http://t7s.jp/release/cd/09.html",
-      "publishedAt": "2016年2月24日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "seventhHaven",
-    "titleOfOffVocal": "SEVENTH HAVEN -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "fallingDown",
-    "titleOfOffVocal": "FALLING DOWN -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "minusZero",
-    "titleOfOffVocal": "-Zero -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "treatOrTreat",
-    "titleOfOffVocal": "TREAT OR TREAT? -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "bokuraHaAozora",
-    "titleOfOffVocal": "僕らは青空になる -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "funbare",
-    "titleOfOffVocal": "FUNBARE☆RUNNER -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "robberLover",
-    "titleOfOffVocal": "ラバ×ラバ -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "sayonaraRainy",
-    "titleOfOffVocal": "さよならレイニーレディ -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "youCantWin",
-    "titleOfOffVocal": "You Can't Win -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "sekaiNoHimitsu",
-    "titleOfOffVocal": "セカイのヒミツ -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "yellow",
-    "titleOfOffVocal": "YELLOW -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "behindMoon",
-    "titleOfOffVocal": "Behind Moon -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "haneru",
-    "titleOfOffVocal": "ハネ☆る!! -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "snowIn",
-    "titleOfOffVocal": "Snow in \"I love you\" -OFF VOCAL-",
-    "album": {
-      "title": "Are You Ready 7th-TYPES??",
-      "description": "Tokyo 7th シスターズ 2ndアルバム",
-      "url": "http://t7s.jp/release/cd/10.html",
-      "publishedAt": "2016年6月29日",
-      "remarks": "プレミアムボックスのみ収録"
-    }
-  },
-  {
-    "slug": "harukaze",
-    "titleOfOffVocal": "ハルカゼ～You were here～ -OFF VOCAL-",
-    "album": {
-      "title": "ハルカゼ～You were here～",
-      "description": "777☆SISTERS 3rdシングル",
-      "url": "http://t7s.jp/release/cd/14.html",
-      "publishedAt": "2017年4月19日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "worldsEnd",
-    "titleOfOffVocal": "WORLD'S END-OFF VOCAL-",
-    "album": {
-      "title": "WORLD'S END",
-      "description": "セブンスシスターズ 2ndシングル",
-      "url": "http://t7s.jp/release/cd/15.html",
-      "publishedAt": "2017年7月26日",
-      "remarks": "曲名と -OFF VOCAL- の間に半角スペースなし"
-    }
-  },
-  {
-    "slug": "punchdRanker",
-    "titleOfOffVocal": "PUNCH'D RANKER-OFF VOCAL-",
-    "album": {
-      "title": "WORLD'S END",
-      "description": "セブンスシスターズ 2ndシングル",
-      "url": "http://t7s.jp/release/cd/15.html",
-      "publishedAt": "2017年7月26日",
-      "remarks": "曲名と -OFF VOCAL- の間に半角スペースなし"
-    }
-  },
-  {
-    "slug": "startLine",
-    "titleOfOffVocal": "スタートライン -OFF VOCAL-",
-    "album": {
-      "title": "スタートライン/STAY☆GOLD",
-      "description": "777☆SISTERS 4thシングル",
-      "url": "http://t7s.jp/release/cd/16.html",
-      "publishedAt": "2017年8月30日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "stayGold",
-    "titleOfOffVocal": "STAY☆GOLD -OFF VOCAL-",
-    "album": {
-      "title": "スタートライン/STAY☆GOLD",
-      "description": "777☆SISTERS 4thシングル",
-      "url": "http://t7s.jp/release/cd/16.html",
-      "publishedAt": "2017年8月30日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "citlusHaKataomoi",
-    "titleOfOffVocal": "シトラスは片想い -OFF VOCAL-",
-    "album": {
-      "title": "シトラスは片想い",
-      "description": "Ci+LUS デビューシングル",
-      "url": "http://t7s.jp/release/cd/19.html",
-      "publishedAt": "2018年04月25日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "aikotoba",
-    "titleOfOffVocal": "アイコトバ -OFF VOCAL-",
-    "album": {
-      "title": "シトラスは片想い",
-      "description": "Ci+LUS デビューシングル",
-      "url": "http://t7s.jp/release/cd/19.html",
-      "publishedAt": "2018年04月25日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "melodyInThePocket",
-    "titleOfOffVocal": "MELODY IN THE POCKET -OFF VOCAL-",
-    "album": {
-      "title": "MELODY IN THE POCKET",
-      "description": "777☆SISTERS メモリアルシングル",
-      "url": "http://t7s.jp/release/cd/24.html",
-      "publishedAt": "2018年10月10日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "lovelyOnly",
-    "titleOfOffVocal": "ラブリー♡オンリー -OFF VOCAL-",
-    "album": {
-      "title": "MELODY IN THE POCKET",
-      "description": "777☆SISTERS メモリアルシングル",
-      "url": "http://t7s.jp/release/cd/24.html",
-      "publishedAt": "2018年10月10日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "showTime",
-    "titleOfOffVocal": "SHOW TIME -OFF VOCAL-",
-    "album": {
-      "title": "SHOW TIME",
-      "description": "CASQUETTE’S デビューシングル",
-      "url": "http://t7s.jp/release/cd/23.html",
-      "publishedAt": "2018年10月3日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "masquerade",
-    "titleOfOffVocal": "マスカレード・ナイト -OFF VOCAL-",
-    "album": {
-      "title": "SHOW TIME",
-      "description": "CASQUETTE’S デビューシングル",
-      "url": "http://t7s.jp/release/cd/23.html",
-      "publishedAt": "2018年10月3日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "startLine",
-    "titleOfOffVocal": "スタートライン-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "hosikuzuSeeker",
-    "titleOfOffVocal": "星屑☆シーカー-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "precious",
-    "titleOfOffVocal": "プレシャス・セトラ-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "checkMate",
-    "titleOfOffVocal": "CHECK’MATE-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "14ss",
-    "titleOfOffVocal": "14 歳のサマーソーダ-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "shake",
-    "titleOfOffVocal": "SHAKE!!～フリフリしちゃえ～-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "tanpopo",
-    "titleOfOffVocal": "タンポポ-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "twilight",
-    "titleOfOffVocal": "トワイライト-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "himawariNoStory",
-    "titleOfOffVocal": "ひまわりのストーリー-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "stayGold",
-    "titleOfOffVocal": "STAY☆GOLD-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "harukaze",
-    "titleOfOffVocal": "ハルカゼ～You were here～-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "punchdRanker",
-    "titleOfOffVocal": "PUNCH’D RANKER-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "trigger",
-    "titleOfOffVocal": "TRIGGER-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "fireAndRose",
-    "titleOfOffVocal": "Fire and Rose-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "luckyLucky",
-    "titleOfOffVocal": "Lucky☆Lucky-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "winningDay",
-    "titleOfOffVocal": "Winning Day-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "worldsEnd",
-    "titleOfOffVocal": "WORLD’S END-OFF VOCAL-",
-    "album": {
-      "title": "THE STRAIGHT LIGHT",
-      "description": "Tokyo 7th シスターズ 3rd Album",
-      "url": "http://t7s.jp/release/cd/20.html",
-      "publishedAt": "2018年7月4日",
-      "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
-    }
-  },
-  {
-    "slug": "hanasakiOtome",
-    "titleOfOffVocal": "花咲キオトメ -OFF VOCAL-",
-    "album": {
-      "title": "花咲キオトメ",
-      "description": "七花少女 Debut Single",
-      "url": "http://t7s.jp/release/cd/26.html",
-      "publishedAt": "2019年3月20日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "snowDrop",
-    "titleOfOffVocal": "スノードロップ –OFF VOCAL-",
-    "album": {
-      "title": "花咲キオトメ",
-      "description": "七花少女 Debut Single",
-      "url": "http://t7s.jp/release/cd/26.html",
-      "publishedAt": "2019年3月20日",
-      "remarks": "OFF VOCAL の前のハイフンがいわゆる半角ハイフン(`MINUS SIGN 0x2212`)ではなく `EN DASH 0x2013`. ビクターのサイト上でもこの表記."
-    }
-  },
-  {
-    "slug": "trick",
-    "titleOfOffVocal": "TRICK -OFF VOCAL-",
-    "album": {
-      "title": "TRICK",
-      "description": "Ci+LUS 2nd Single",
-      "url": "http://t7s.jp/release/cd/27.html",
-      "publishedAt": "2019年3月20日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "sorairoSkip",
-    "titleOfOffVocal": "空色スキップ -OFF VOCAL-",
-    "album": {
-      "title": "TRICK",
-      "description": "Ci+LUS 2nd Single",
-      "url": "http://t7s.jp/release/cd/27.html",
-      "publishedAt": "2019年3月20日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "heavensRave",
-    "titleOfOffVocal": "HEAVEN'S RAVE -OFF VOCAL-",
-    "album": {
-      "title": "HEAVEN'S RAVE",
-      "description": "AXiS 1st Single",
-      "url": "http://t7s.jp/release/cd/28.html",
-      "publishedAt": "2019年5月22日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "cocytus",
-    "titleOfOffVocal": "COCYTUS –OFF VOCAL-",
-    "album": {
-      "title": "HEAVEN'S RAVE",
-      "description": "AXiS 1st Single",
-      "url": "http://t7s.jp/release/cd/28.html",
-      "publishedAt": "2019年5月22日",
-      "remarks": "OFF VOCAL の前のハイフンがいわゆる半角ハイフン(`MINUS SIGN 0x2212`)ではなく `EN DASH 0x2013`. ビクターのサイト上では半角ハイフン表記."
-    }
-  },
-  {
-    "slug": "mitsubachi",
-    "titleOfOffVocal": "ミツバチ -OFF VOCAL-",
-    "album": {
-      "title": "ミツバチ",
-      "description": "Le☆S☆Ca 3rd Single",
-      "url": "http://t7s.jp/release/cd/30.html",
-      "publishedAt": "2019年6月19日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "hiyokoNoUta",
-    "titleOfOffVocal": "ひよこのうた -OFF VOCAL-",
-    "album": {
-      "title": "ミツバチ",
-      "description": "Le☆S☆Ca 3rd Single",
-      "url": "http://t7s.jp/release/cd/30.html",
-      "publishedAt": "2019年6月19日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "natsukage",
-    "titleOfOffVocal": "NATSUKAGE-夏陰- -OFF VOCAL-",
-    "album": {
-      "title": "NATSUKAGE-夏陰-",
-      "description": "777☆SISTERS New Single",
-      "url": "http://t7s.jp/release/cd/31.html",
-      "publishedAt": "2019年6月19日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "natsuNoVidro",
-    "titleOfOffVocal": "夏のビードロ☆シンフォニー -OFF VOCAL-",
-    "album": {
-      "title": "NATSUKAGE-夏陰-",
-      "description": "777☆SISTERS New Single",
-      "url": "http://t7s.jp/release/cd/31.html",
-      "publishedAt": "2019年6月19日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "myGradation",
-    "titleOfOffVocal": "マイ・グラデイション -OFF VOCAL-",
-    "album": {
-      "title": "マイ・グラデイション/SCARLET",
-      "description": "七花少女/CASQUETTE’S Split Single",
-      "url": "http://t7s.jp/release/cd/34.html",
-      "publishedAt": "2019年6月19日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "scarlet",
-    "titleOfOffVocal": "SCARLET -OFF VOCAL-",
-    "album": {
-      "title": "マイ・グラデイション/SCARLET",
-      "description": "七花少女/CASQUETTE’S Split Single",
-      "url": "http://t7s.jp/release/cd/34.html",
-      "publishedAt": "2019年6月19日",
-      "remarks": "サイト上で「CARLET -OFF VOCAL-」と脱字"
-    }
-  },
-  {
-    "slug": "acrossTheRainbow",
-    "titleOfOffVocal": "Across the Rainbow -OFF VOCAL-",
-    "album": {
-      "title": "Across the Rainbow",
-      "description": "777☆SISTERS New single",
-      "url": "http://t7s.jp/release/cd/41.html",
-      "publishedAt": "2020年11月25日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "ribbon",
-    "titleOfOffVocal": "リボン -OFF VOCAL-",
-    "album": {
-      "title": "Across the Rainbow",
-      "description": "777☆SISTERS New single",
-      "url": "http://t7s.jp/release/cd/41.html",
-      "publishedAt": "2020年11月25日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "departures",
-    "titleOfOffVocal": "Departures -あしたの歌- -OFF VOCAL-",
-    "album": {
-      "title": "Across the Rainbow",
-      "description": "777☆SISTERS New single",
-      "url": "http://t7s.jp/release/cd/41.html",
-      "publishedAt": "2020年11月25日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "fallInLove",
-    "titleOfOffVocal": "Fall in Love -OFF VOCAL-",
-    "album": {
-      "title": "Fall in Love",
-      "description": "SEASON OF LOVE 1st Single",
-      "url": "http://t7s.jp/release/cd/36.html",
-      "publishedAt": "2020年2月12日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "kodomoDeHero",
-    "titleOfOffVocal": "コドーモ・デ・ヒーロ -OFF VOCAL-",
-    "album": {
-      "title": "Fall in Love",
-      "description": "SEASON OF LOVE 1st Single",
-      "url": "http://t7s.jp/release/cd/36.html",
-      "publishedAt": "2020年2月12日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "loveAndDevel",
-    "titleOfOffVocal": "LOVE AND DEVIL -OFF VOCAL-",
-    "album": {
-      "title": "LOVE AND DEVIL / アイノシズク",
-      "description": "4U / KARAKURI 2039 3rd Split Single",
-      "url": "http://t7s.jp/release/cd/37.html",
-      "publishedAt": "2020年3月4日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "ainosizuku",
-    "titleOfOffVocal": "アイノシズク -OFF VOCAL-",
-    "album": {
-      "title": "LOVE AND DEVIL / アイノシズク",
-      "description": "4U / KARAKURI 2039 3rd Split Single",
-      "url": "http://t7s.jp/release/cd/37.html",
-      "publishedAt": "2020年3月4日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "shootingSky",
-    "titleOfOffVocal": "Shooting Sky -OFF VOCAL-",
-    "album": {
-      "title": "IT'S A PERFECT BLUE",
-      "description": "Tokyo 7th シスターズ 4th Album",
-      "url": "http://t7s.jp/release/cd/43.html",
-      "publishedAt": "2021年3月17日",
-      "remarks": "プレミアムボックス/初回限定盤のみ収録"
-    }
-  },
-  {
-    "slug": "sun3",
-    "titleOfOffVocal": "SUN SUN SUN -OFF VOCAL-",
-    "album": {
-      "title": "IT'S A PERFECT BLUE",
-      "description": "Tokyo 7th シスターズ 4th Album",
-      "url": "http://t7s.jp/release/cd/43.html",
-      "publishedAt": "2021年3月17日",
-      "remarks": "プレミアムボックス/初回限定盤のみ収録"
-    }
-  },
-  {
-    "slug": "amaterras",
-    "titleOfOffVocal": "AMATERRAS -OFF VOCAL-",
-    "album": {
-      "title": "IT'S A PERFECT BLUE",
-      "description": "Tokyo 7th シスターズ 4th Album",
-      "url": "http://t7s.jp/release/cd/43.html",
-      "publishedAt": "2021年3月17日",
-      "remarks": "プレミアムボックス/初回限定盤のみ収録"
-    }
-  },
-  {
-    "slug": "hikari",
-    "titleOfOffVocal": "光 -OFF VOCAL-",
-    "album": {
-      "title": "IT'S A PERFECT BLUE",
-      "description": "Tokyo 7th シスターズ 4th Album",
-      "url": "http://t7s.jp/release/cd/43.html",
-      "publishedAt": "2021年3月17日",
-      "remarks": "プレミアムボックス/初回限定盤のみ収録"
-    }
-  },
-  {
-    "slug": "koiseyoOtome",
-    "titleOfOffVocal": "恋セヨ乙女 -OFF VOCAL-",
-    "album": {
-      "title": "恋セヨ乙女",
-      "description": "桂木カヅミ 1st single",
-      "url": "http://t7s.jp/release/cd/46.html",
-      "publishedAt": "2021年12月14日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "akiNoSora",
-    "titleOfOffVocal": "秋の空とこころ　コスモス -OFF VOCAL-",
-    "album": {
-      "title": "秋の空とこころ コスモス",
-      "description": "七花少女 4th single",
-      "url": "http://t7s.jp/release/cd/47.html",
-      "publishedAt": "2021年12月14日",
-      "remarks": ""
-    }
-  },
-  {
-    "slug": "koiWoShite",
-    "titleOfOffVocal": "恋をして -OFF VOCAL-",
-    "album": {
-      "title": "恋をして",
-      "description": "Le☆S☆Ca 9th single",
-      "url": "http://t7s.jp/release/cd/48.html",
-      "publishedAt": "2021年12月14日",
-      "remarks": ""
-    }
-  }
-]
+{
+  "$schema": "./offVocal.schema.json",
+  "value": [
+    {
+      "slug": "minusZero",
+      "titleOfOffVocal": "-Zero -OFF VOCAL-",
+      "album": {
+        "title": "-Zero / TREAT OR TREAT?",
+        "description": "t7s HALLOWEEN EP",
+        "url": "http://t7s.jp/release/cd/06.html",
+        "publishedAt": "2015年10月28日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "treatOrTreat",
+      "titleOfOffVocal": "TREAT OR TREAT? -OFF VOCAL-",
+      "album": {
+        "title": "-Zero / TREAT OR TREAT?",
+        "description": "t7s HALLOWEEN EP",
+        "url": "http://t7s.jp/release/cd/06.html",
+        "publishedAt": "2015年10月28日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "yellow",
+      "titleOfOffVocal": "YELLOW -OFF VOCAL-",
+      "album": {
+        "title": "YELLOW",
+        "description": "Le☆S☆Ca 1stシングル",
+        "url": "http://t7s.jp/release/cd/07.html",
+        "publishedAt": "2015年12月9日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "behindMoon",
+      "titleOfOffVocal": "Behind Moon -OFF VOCAL-",
+      "album": {
+        "title": "YELLOW",
+        "description": "Le☆S☆Ca 1stシングル",
+        "url": "http://t7s.jp/release/cd/07.html",
+        "publishedAt": "2015年12月9日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "snowIn",
+      "titleOfOffVocal": "Snow in \"I love you\" -OFF VOCAL-",
+      "album": {
+        "title": "Snow in \"I love you\"",
+        "description": "777☆SISTERS 2ndシングル",
+        "url": "http://t7s.jp/release/cd/08.html",
+        "publishedAt": "2015年12月9日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "haneru",
+      "titleOfOffVocal": "ハネ☆る!! -OFF VOCAL-",
+      "album": {
+        "title": "Snow in \"I love you\"",
+        "description": "777☆SISTERS 2ndシングル",
+        "url": "http://t7s.jp/release/cd/08.html",
+        "publishedAt": "2015年12月9日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "bokuraHaAozora",
+      "titleOfOffVocal": "僕らは青空になる -OFF VOCAL-",
+      "album": {
+        "title": "僕らは青空になる / FUNBARE☆RUNNER",
+        "description": "777☆SISTERS 両A面1stシングル",
+        "url": "http://t7s.jp/release/cd/04.html",
+        "publishedAt": "2015年7月29日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "funbare",
+      "titleOfOffVocal": "FUNBARE☆RUNNER -OFF VOCAL-",
+      "album": {
+        "title": "僕らは青空になる / FUNBARE☆RUNNER",
+        "description": "777☆SISTERS 両A面1stシングル",
+        "url": "http://t7s.jp/release/cd/04.html",
+        "publishedAt": "2015年7月29日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "starGlitter",
+      "titleOfOffVocal": "Star☆Glitter【Original Instrumental】",
+      "album": {
+        "title": "The Things She Loved",
+        "description": "t7s オリジナルサウンドトラック",
+        "url": "http://t7s.jp/release/cd/05.html",
+        "publishedAt": "2015年8月14日",
+        "remarks": "【Original Instrumental】表記"
+      }
+    },
+    {
+      "slug": "trigger",
+      "titleOfOffVocal": "TRIGGER -OFF VOCAL-",
+      "album": {
+        "title": "TRIGGER / Fire and Rose",
+        "description": "The QUEEN of PURPLE 1stシングル",
+        "url": "http://t7s.jp/release/cd/11.html",
+        "publishedAt": "2016年10月26日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "fireAndRose",
+      "titleOfOffVocal": "Fire and Rose -OFF VOCAL-",
+      "album": {
+        "title": "TRIGGER / Fire and Rose",
+        "description": "The QUEEN of PURPLE 1stシングル",
+        "url": "http://t7s.jp/release/cd/11.html",
+        "publishedAt": "2016年10月26日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "winningDay",
+      "titleOfOffVocal": "Winning Day -OFF VOCAL-",
+      "album": {
+        "title": "Winning Day / Lucky☆Lucky",
+        "description": "New EP",
+        "url": "http://t7s.jp/release/cd/12.html",
+        "publishedAt": "2016年12月7日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "luckyLucky",
+      "titleOfOffVocal": "Lucky☆Lucky -OFF VOCAL-",
+      "album": {
+        "title": "Winning Day / Lucky☆Lucky",
+        "description": "New EP",
+        "url": "http://t7s.jp/release/cd/12.html",
+        "publishedAt": "2016年12月7日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "twilight",
+      "titleOfOffVocal": "トワイライト -OFF VOCAL-",
+      "album": {
+        "title": "トワイライト / タンポポ",
+        "description": "Le☆S☆Ca 2ndシングル",
+        "url": "http://t7s.jp/release/cd/13.html",
+        "publishedAt": "2016年12月7日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "tanpopo",
+      "titleOfOffVocal": "タンポポ -OFF VOCAL-",
+      "album": {
+        "title": "トワイライト / タンポポ",
+        "description": "Le☆S☆Ca 2ndシングル",
+        "url": "http://t7s.jp/release/cd/13.html",
+        "publishedAt": "2016年12月7日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "seventhHaven",
+      "titleOfOffVocal": "SEVENTH HAVEN -OFF VOCAL-",
+      "album": {
+        "title": "SEVENTH HAVEN",
+        "description": "セブンスシスターズ 1stシングル",
+        "url": "http://t7s.jp/release/cd/09.html",
+        "publishedAt": "2016年2月24日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "fallingDown",
+      "titleOfOffVocal": "FALLING DOWN -OFF VOCAL-",
+      "album": {
+        "title": "SEVENTH HAVEN",
+        "description": "セブンスシスターズ 1stシングル",
+        "url": "http://t7s.jp/release/cd/09.html",
+        "publishedAt": "2016年2月24日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "seventhHaven",
+      "titleOfOffVocal": "SEVENTH HAVEN -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "fallingDown",
+      "titleOfOffVocal": "FALLING DOWN -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "minusZero",
+      "titleOfOffVocal": "-Zero -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "treatOrTreat",
+      "titleOfOffVocal": "TREAT OR TREAT? -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "bokuraHaAozora",
+      "titleOfOffVocal": "僕らは青空になる -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "funbare",
+      "titleOfOffVocal": "FUNBARE☆RUNNER -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "robberLover",
+      "titleOfOffVocal": "ラバ×ラバ -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "sayonaraRainy",
+      "titleOfOffVocal": "さよならレイニーレディ -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "youCantWin",
+      "titleOfOffVocal": "You Can't Win -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "sekaiNoHimitsu",
+      "titleOfOffVocal": "セカイのヒミツ -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "yellow",
+      "titleOfOffVocal": "YELLOW -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "behindMoon",
+      "titleOfOffVocal": "Behind Moon -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "haneru",
+      "titleOfOffVocal": "ハネ☆る!! -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "snowIn",
+      "titleOfOffVocal": "Snow in \"I love you\" -OFF VOCAL-",
+      "album": {
+        "title": "Are You Ready 7th-TYPES??",
+        "description": "Tokyo 7th シスターズ 2ndアルバム",
+        "url": "http://t7s.jp/release/cd/10.html",
+        "publishedAt": "2016年6月29日",
+        "remarks": "プレミアムボックスのみ収録"
+      }
+    },
+    {
+      "slug": "harukaze",
+      "titleOfOffVocal": "ハルカゼ～You were here～ -OFF VOCAL-",
+      "album": {
+        "title": "ハルカゼ～You were here～",
+        "description": "777☆SISTERS 3rdシングル",
+        "url": "http://t7s.jp/release/cd/14.html",
+        "publishedAt": "2017年4月19日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "worldsEnd",
+      "titleOfOffVocal": "WORLD'S END-OFF VOCAL-",
+      "album": {
+        "title": "WORLD'S END",
+        "description": "セブンスシスターズ 2ndシングル",
+        "url": "http://t7s.jp/release/cd/15.html",
+        "publishedAt": "2017年7月26日",
+        "remarks": "曲名と -OFF VOCAL- の間に半角スペースなし"
+      }
+    },
+    {
+      "slug": "punchdRanker",
+      "titleOfOffVocal": "PUNCH'D RANKER-OFF VOCAL-",
+      "album": {
+        "title": "WORLD'S END",
+        "description": "セブンスシスターズ 2ndシングル",
+        "url": "http://t7s.jp/release/cd/15.html",
+        "publishedAt": "2017年7月26日",
+        "remarks": "曲名と -OFF VOCAL- の間に半角スペースなし"
+      }
+    },
+    {
+      "slug": "startLine",
+      "titleOfOffVocal": "スタートライン -OFF VOCAL-",
+      "album": {
+        "title": "スタートライン/STAY☆GOLD",
+        "description": "777☆SISTERS 4thシングル",
+        "url": "http://t7s.jp/release/cd/16.html",
+        "publishedAt": "2017年8月30日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "stayGold",
+      "titleOfOffVocal": "STAY☆GOLD -OFF VOCAL-",
+      "album": {
+        "title": "スタートライン/STAY☆GOLD",
+        "description": "777☆SISTERS 4thシングル",
+        "url": "http://t7s.jp/release/cd/16.html",
+        "publishedAt": "2017年8月30日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "citlusHaKataomoi",
+      "titleOfOffVocal": "シトラスは片想い -OFF VOCAL-",
+      "album": {
+        "title": "シトラスは片想い",
+        "description": "Ci+LUS デビューシングル",
+        "url": "http://t7s.jp/release/cd/19.html",
+        "publishedAt": "2018年04月25日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "aikotoba",
+      "titleOfOffVocal": "アイコトバ -OFF VOCAL-",
+      "album": {
+        "title": "シトラスは片想い",
+        "description": "Ci+LUS デビューシングル",
+        "url": "http://t7s.jp/release/cd/19.html",
+        "publishedAt": "2018年04月25日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "melodyInThePocket",
+      "titleOfOffVocal": "MELODY IN THE POCKET -OFF VOCAL-",
+      "album": {
+        "title": "MELODY IN THE POCKET",
+        "description": "777☆SISTERS メモリアルシングル",
+        "url": "http://t7s.jp/release/cd/24.html",
+        "publishedAt": "2018年10月10日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "lovelyOnly",
+      "titleOfOffVocal": "ラブリー♡オンリー -OFF VOCAL-",
+      "album": {
+        "title": "MELODY IN THE POCKET",
+        "description": "777☆SISTERS メモリアルシングル",
+        "url": "http://t7s.jp/release/cd/24.html",
+        "publishedAt": "2018年10月10日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "showTime",
+      "titleOfOffVocal": "SHOW TIME -OFF VOCAL-",
+      "album": {
+        "title": "SHOW TIME",
+        "description": "CASQUETTE’S デビューシングル",
+        "url": "http://t7s.jp/release/cd/23.html",
+        "publishedAt": "2018年10月3日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "masquerade",
+      "titleOfOffVocal": "マスカレード・ナイト -OFF VOCAL-",
+      "album": {
+        "title": "SHOW TIME",
+        "description": "CASQUETTE’S デビューシングル",
+        "url": "http://t7s.jp/release/cd/23.html",
+        "publishedAt": "2018年10月3日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "startLine",
+      "titleOfOffVocal": "スタートライン-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "hosikuzuSeeker",
+      "titleOfOffVocal": "星屑☆シーカー-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "precious",
+      "titleOfOffVocal": "プレシャス・セトラ-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "checkMate",
+      "titleOfOffVocal": "CHECK’MATE-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "14ss",
+      "titleOfOffVocal": "14 歳のサマーソーダ-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "shake",
+      "titleOfOffVocal": "SHAKE!!～フリフリしちゃえ～-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "tanpopo",
+      "titleOfOffVocal": "タンポポ-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "twilight",
+      "titleOfOffVocal": "トワイライト-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "himawariNoStory",
+      "titleOfOffVocal": "ひまわりのストーリー-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "stayGold",
+      "titleOfOffVocal": "STAY☆GOLD-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "harukaze",
+      "titleOfOffVocal": "ハルカゼ～You were here～-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "punchdRanker",
+      "titleOfOffVocal": "PUNCH’D RANKER-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "trigger",
+      "titleOfOffVocal": "TRIGGER-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "fireAndRose",
+      "titleOfOffVocal": "Fire and Rose-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "luckyLucky",
+      "titleOfOffVocal": "Lucky☆Lucky-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "winningDay",
+      "titleOfOffVocal": "Winning Day-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "worldsEnd",
+      "titleOfOffVocal": "WORLD’S END-OFF VOCAL-",
+      "album": {
+        "title": "THE STRAIGHT LIGHT",
+        "description": "Tokyo 7th シスターズ 3rd Album",
+        "url": "http://t7s.jp/release/cd/20.html",
+        "publishedAt": "2018年7月4日",
+        "remarks": "プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし."
+      }
+    },
+    {
+      "slug": "hanasakiOtome",
+      "titleOfOffVocal": "花咲キオトメ -OFF VOCAL-",
+      "album": {
+        "title": "花咲キオトメ",
+        "description": "七花少女 Debut Single",
+        "url": "http://t7s.jp/release/cd/26.html",
+        "publishedAt": "2019年3月20日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "snowDrop",
+      "titleOfOffVocal": "スノードロップ –OFF VOCAL-",
+      "album": {
+        "title": "花咲キオトメ",
+        "description": "七花少女 Debut Single",
+        "url": "http://t7s.jp/release/cd/26.html",
+        "publishedAt": "2019年3月20日",
+        "remarks": "OFF VOCAL の前のハイフンがいわゆる半角ハイフン(`MINUS SIGN 0x2212`)ではなく `EN DASH 0x2013`. ビクターのサイト上でもこの表記."
+      }
+    },
+    {
+      "slug": "trick",
+      "titleOfOffVocal": "TRICK -OFF VOCAL-",
+      "album": {
+        "title": "TRICK",
+        "description": "Ci+LUS 2nd Single",
+        "url": "http://t7s.jp/release/cd/27.html",
+        "publishedAt": "2019年3月20日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "sorairoSkip",
+      "titleOfOffVocal": "空色スキップ -OFF VOCAL-",
+      "album": {
+        "title": "TRICK",
+        "description": "Ci+LUS 2nd Single",
+        "url": "http://t7s.jp/release/cd/27.html",
+        "publishedAt": "2019年3月20日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "heavensRave",
+      "titleOfOffVocal": "HEAVEN'S RAVE -OFF VOCAL-",
+      "album": {
+        "title": "HEAVEN'S RAVE",
+        "description": "AXiS 1st Single",
+        "url": "http://t7s.jp/release/cd/28.html",
+        "publishedAt": "2019年5月22日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "cocytus",
+      "titleOfOffVocal": "COCYTUS –OFF VOCAL-",
+      "album": {
+        "title": "HEAVEN'S RAVE",
+        "description": "AXiS 1st Single",
+        "url": "http://t7s.jp/release/cd/28.html",
+        "publishedAt": "2019年5月22日",
+        "remarks": "OFF VOCAL の前のハイフンがいわゆる半角ハイフン(`MINUS SIGN 0x2212`)ではなく `EN DASH 0x2013`. ビクターのサイト上では半角ハイフン表記."
+      }
+    },
+    {
+      "slug": "mitsubachi",
+      "titleOfOffVocal": "ミツバチ -OFF VOCAL-",
+      "album": {
+        "title": "ミツバチ",
+        "description": "Le☆S☆Ca 3rd Single",
+        "url": "http://t7s.jp/release/cd/30.html",
+        "publishedAt": "2019年6月19日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "hiyokoNoUta",
+      "titleOfOffVocal": "ひよこのうた -OFF VOCAL-",
+      "album": {
+        "title": "ミツバチ",
+        "description": "Le☆S☆Ca 3rd Single",
+        "url": "http://t7s.jp/release/cd/30.html",
+        "publishedAt": "2019年6月19日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "natsukage",
+      "titleOfOffVocal": "NATSUKAGE-夏陰- -OFF VOCAL-",
+      "album": {
+        "title": "NATSUKAGE-夏陰-",
+        "description": "777☆SISTERS New Single",
+        "url": "http://t7s.jp/release/cd/31.html",
+        "publishedAt": "2019年6月19日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "natsuNoVidro",
+      "titleOfOffVocal": "夏のビードロ☆シンフォニー -OFF VOCAL-",
+      "album": {
+        "title": "NATSUKAGE-夏陰-",
+        "description": "777☆SISTERS New Single",
+        "url": "http://t7s.jp/release/cd/31.html",
+        "publishedAt": "2019年6月19日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "myGradation",
+      "titleOfOffVocal": "マイ・グラデイション -OFF VOCAL-",
+      "album": {
+        "title": "マイ・グラデイション/SCARLET",
+        "description": "七花少女/CASQUETTE’S Split Single",
+        "url": "http://t7s.jp/release/cd/34.html",
+        "publishedAt": "2019年6月19日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "scarlet",
+      "titleOfOffVocal": "SCARLET -OFF VOCAL-",
+      "album": {
+        "title": "マイ・グラデイション/SCARLET",
+        "description": "七花少女/CASQUETTE’S Split Single",
+        "url": "http://t7s.jp/release/cd/34.html",
+        "publishedAt": "2019年6月19日",
+        "remarks": "サイト上で「CARLET -OFF VOCAL-」と脱字"
+      }
+    },
+    {
+      "slug": "acrossTheRainbow",
+      "titleOfOffVocal": "Across the Rainbow -OFF VOCAL-",
+      "album": {
+        "title": "Across the Rainbow",
+        "description": "777☆SISTERS New single",
+        "url": "http://t7s.jp/release/cd/41.html",
+        "publishedAt": "2020年11月25日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "ribbon",
+      "titleOfOffVocal": "リボン -OFF VOCAL-",
+      "album": {
+        "title": "Across the Rainbow",
+        "description": "777☆SISTERS New single",
+        "url": "http://t7s.jp/release/cd/41.html",
+        "publishedAt": "2020年11月25日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "departures",
+      "titleOfOffVocal": "Departures -あしたの歌- -OFF VOCAL-",
+      "album": {
+        "title": "Across the Rainbow",
+        "description": "777☆SISTERS New single",
+        "url": "http://t7s.jp/release/cd/41.html",
+        "publishedAt": "2020年11月25日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "fallInLove",
+      "titleOfOffVocal": "Fall in Love -OFF VOCAL-",
+      "album": {
+        "title": "Fall in Love",
+        "description": "SEASON OF LOVE 1st Single",
+        "url": "http://t7s.jp/release/cd/36.html",
+        "publishedAt": "2020年2月12日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "kodomoDeHero",
+      "titleOfOffVocal": "コドーモ・デ・ヒーロ -OFF VOCAL-",
+      "album": {
+        "title": "Fall in Love",
+        "description": "SEASON OF LOVE 1st Single",
+        "url": "http://t7s.jp/release/cd/36.html",
+        "publishedAt": "2020年2月12日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "loveAndDevel",
+      "titleOfOffVocal": "LOVE AND DEVIL -OFF VOCAL-",
+      "album": {
+        "title": "LOVE AND DEVIL / アイノシズク",
+        "description": "4U / KARAKURI 2039 3rd Split Single",
+        "url": "http://t7s.jp/release/cd/37.html",
+        "publishedAt": "2020年3月4日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "ainosizuku",
+      "titleOfOffVocal": "アイノシズク -OFF VOCAL-",
+      "album": {
+        "title": "LOVE AND DEVIL / アイノシズク",
+        "description": "4U / KARAKURI 2039 3rd Split Single",
+        "url": "http://t7s.jp/release/cd/37.html",
+        "publishedAt": "2020年3月4日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "shootingSky",
+      "titleOfOffVocal": "Shooting Sky -OFF VOCAL-",
+      "album": {
+        "title": "IT'S A PERFECT BLUE",
+        "description": "Tokyo 7th シスターズ 4th Album",
+        "url": "http://t7s.jp/release/cd/43.html",
+        "publishedAt": "2021年3月17日",
+        "remarks": "プレミアムボックス/初回限定盤のみ収録"
+      }
+    },
+    {
+      "slug": "sun3",
+      "titleOfOffVocal": "SUN SUN SUN -OFF VOCAL-",
+      "album": {
+        "title": "IT'S A PERFECT BLUE",
+        "description": "Tokyo 7th シスターズ 4th Album",
+        "url": "http://t7s.jp/release/cd/43.html",
+        "publishedAt": "2021年3月17日",
+        "remarks": "プレミアムボックス/初回限定盤のみ収録"
+      }
+    },
+    {
+      "slug": "amaterras",
+      "titleOfOffVocal": "AMATERRAS -OFF VOCAL-",
+      "album": {
+        "title": "IT'S A PERFECT BLUE",
+        "description": "Tokyo 7th シスターズ 4th Album",
+        "url": "http://t7s.jp/release/cd/43.html",
+        "publishedAt": "2021年3月17日",
+        "remarks": "プレミアムボックス/初回限定盤のみ収録"
+      }
+    },
+    {
+      "slug": "hikari",
+      "titleOfOffVocal": "光 -OFF VOCAL-",
+      "album": {
+        "title": "IT'S A PERFECT BLUE",
+        "description": "Tokyo 7th シスターズ 4th Album",
+        "url": "http://t7s.jp/release/cd/43.html",
+        "publishedAt": "2021年3月17日",
+        "remarks": "プレミアムボックス/初回限定盤のみ収録"
+      }
+    },
+    {
+      "slug": "koiseyoOtome",
+      "titleOfOffVocal": "恋セヨ乙女 -OFF VOCAL-",
+      "album": {
+        "title": "恋セヨ乙女",
+        "description": "桂木カヅミ 1st single",
+        "url": "http://t7s.jp/release/cd/46.html",
+        "publishedAt": "2021年12月14日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "akiNoSora",
+      "titleOfOffVocal": "秋の空とこころ　コスモス -OFF VOCAL-",
+      "album": {
+        "title": "秋の空とこころ コスモス",
+        "description": "七花少女 4th single",
+        "url": "http://t7s.jp/release/cd/47.html",
+        "publishedAt": "2021年12月14日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "koiWoShite",
+      "titleOfOffVocal": "恋をして -OFF VOCAL-",
+      "album": {
+        "title": "恋をして",
+        "description": "Le☆S☆Ca 9th single",
+        "url": "http://t7s.jp/release/cd/48.html",
+        "publishedAt": "2021年12月14日",
+        "remarks": ""
+      }
+    }
+  ]
+}
