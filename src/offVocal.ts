@@ -3,7 +3,6 @@ import { pipe } from "fp-ts/lib/function.js"
 import * as Map from "fp-ts/lib/Map.js"
 import * as O from "fp-ts/lib/Option.js"
 import * as Ord from "fp-ts/lib/Ord.js"
-import * as Set from "fp-ts/lib/Set.js"
 import * as string from "fp-ts/lib/string.js"
 import { writeFile } from "fs/promises"
 import path from "path"
@@ -13,29 +12,14 @@ import { songsMap } from "../data/songs"
 import type { SongsMap } from "../types"
 import type { OffVocalSongs, OffVocalItem } from "../types/offVocal"
 
-const findSongsWithNoOffVocals = (items: OffVocalItem[]): SongsMap => {
-  const originalSongSlugs = pipe(
+const findSongsWithNoOffVocals = (items: OffVocalItem[]): SongsMap =>
+  pipe(
     songsMap,
-    Map.keys(string.Ord),
-    Set.fromArray(string.Eq),
-  )
-  const offVocalSongSlugs = pipe(
-    items,
-    A.map(({ slug }) => slug),
-    Set.fromArray(string.Eq),
-  )
-  const songsWithNoOffVocalSlugs = pipe(
-    originalSongSlugs,
-    Set.difference(string.Eq)(offVocalSongSlugs),
-  )
-
-  return pipe(
-    songsMap,
-    Map.filter(({ slug }) =>
-      pipe(songsWithNoOffVocalSlugs, Set.elem(string.Eq)(slug)),
+    Map.filter(
+      ({ slug }) =>
+        !items.some(({ slug: offVocalSlug }) => slug === offVocalSlug),
     ),
   )
-}
 
 const groupBySong = (items: OffVocalItem[]): OffVocalSongs => {
   return pipe(
