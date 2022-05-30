@@ -24,10 +24,10 @@ typecheck: node_modules
 typecheck.watch: node_modules
 	yarn tsc --noEmit --watch
 
-test:
+test: node_modules
 	yarn run jest
 
-test.watch:
+test.watch: node_modules
 	yarn run jest --watch
 
 docgen.offVocal: node_modules
