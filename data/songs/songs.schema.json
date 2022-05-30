@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$ref": "#/definitions/SongsSchema",
+  "definitions": {
+    "SongsSchema": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "$schema": {
+          "type": "string"
+        },
+        "value": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Value"
+          }
+        }
+      },
+      "required": ["$schema", "value"],
+      "title": "SongsSchema"
+    },
+    "Value": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "slug": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "officialId": {
+          "type": "integer"
+        },
+        "publishedAt": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "image": {
+          "type": "string",
+          "format": "uri",
+          "qt-uri-protocols": ["http", "https"],
+          "qt-uri-extensions": [".png"]
+        }
+      },
+      "required": [
+        "description",
+        "image",
+        "officialId",
+        "publishedAt",
+        "slug",
+        "title"
+      ],
+      "title": "Value"
+    }
+  }
+}
