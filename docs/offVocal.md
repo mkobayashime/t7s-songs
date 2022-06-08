@@ -22,6 +22,8 @@
 
 - Daze forU!!
 
+- Funny☆Clutch
+
 - Girls Talk!!
 
 - H-A-J-I-M-A-R-I-U-T-A-!!
