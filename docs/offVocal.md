@@ -22,8 +22,6 @@
 
 - Daze forU!!
 
-- Don! Kan! Boy!
-
 - Girls Talk!!
 
 - H-A-J-I-M-A-R-I-U-T-A-!!
@@ -35,8 +33,6 @@
 - Hello...my friend(HINA edit)
 
 - 陽だまりの世界地図
-
-- HOLY QUEEN
 
 - I AM
 
@@ -71,8 +67,6 @@
 - Sparkle☆Time!!
 
 - Starlight☆Asterism!!!
-
-- Striking Diamond
 
 - たいくつりぼん
 
@@ -222,6 +216,16 @@
 
   2020 年 11 月 25 日発売
 
+## Don! Kan! Boy!
+
+`Don! Kan! Boy -OFF VOCAL-`
+
+### 収録アルバム
+
+- [Don! Kan! Boy!](https://t7s.jp/release/cd/49.html)
+
+  2022 年 5 月 24 日発売
+
 ## Fall in Love
 
 `Fall in Love -OFF VOCAL-`
@@ -365,6 +369,16 @@
 - [ミツバチ](http://t7s.jp/release/cd/30.html)
 
   2019 年 6 月 19 日発売
+
+## HOLY QUEEN
+
+`HOLY QUEEN -OFF VOCAL-`
+
+### 収録アルバム
+
+- [HOLY QUEEN](https://t7s.jp/release/cd/50.html)
+
+  2022 年 5 月 24 日発売
 
 ## 星屑 ☆ シーカー
 
@@ -739,6 +753,16 @@
   2018 年 7 月 4 日発売
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
+
+## Striking Diamond
+
+`Striking Diamond -OFF VOCAL-`
+
+### 収録アルバム
+
+- [Striking Diamond](https://t7s.jp/release/cd/51.html)
+
+  2022 年 5 月 24 日発売
 
 ## SUN SUN SUN
 
