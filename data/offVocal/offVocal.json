@@ -935,6 +935,39 @@
         "publishedAt": "2021年12月14日",
         "remarks": ""
       }
+    },
+    {
+      "slug": "donKanBoy",
+      "titleOfOffVocal": "Don! Kan! Boy -OFF VOCAL-",
+      "album": {
+        "title": "Don! Kan! Boy!",
+        "description": "Ci+LUS 5th single",
+        "url": "https://t7s.jp/release/cd/49.html",
+        "publishedAt": "2022年5月24日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "holyQueen",
+      "titleOfOffVocal": "HOLY QUEEN -OFF VOCAL-",
+      "album": {
+        "title": "HOLY QUEEN",
+        "description": "CASQUETTE'S 4th single",
+        "url": "https://t7s.jp/release/cd/50.html",
+        "publishedAt": "2022年5月24日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "strikingDiamond",
+      "titleOfOffVocal": "Striking Diamond -OFF VOCAL-",
+      "album": {
+        "title": "Striking Diamond",
+        "description": "ジェダ・ダイヤモンド　デビューソング",
+        "url": "https://t7s.jp/release/cd/51.html",
+        "publishedAt": "2022年5月24日",
+        "remarks": ""
+      }
     }
   ]
 }
