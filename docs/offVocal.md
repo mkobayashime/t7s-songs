@@ -8,8 +8,6 @@
 
 - B.A.A.B.
 
-- Be Your Light
-
 - Clash!!!
 
 - Clover×Clover
@@ -33,8 +31,6 @@
 - Hello...my friend(EMO edit)
 
 - Hello...my friend(HINA edit)
-
-- 陽だまりの世界地図
 
 - I AM
 
@@ -141,6 +137,16 @@
   2021 年 3 月 17 日発売
 
   プレミアムボックス/初回限定盤のみ収録
+
+## Be Your Light
+
+`Be Your Light -OFF VOCAL-`
+
+### 収録アルバム
+
+- [Be Your Light](https://t7s.jp/release/cd/52.html)
+
+  2022 年 6 月 28 日発売
 
 ## Behind Moon
 
@@ -337,6 +343,16 @@
 - [HEAVEN'S RAVE](http://t7s.jp/release/cd/28.html)
 
   2019 年 5 月 22 日発売
+
+## 陽だまりの世界地図
+
+`陽だまりの世界地図 -OFF VOCAL-`
+
+### 収録アルバム
+
+- [陽だまりの世界地図](https://t7s.jp/release/cd/53.html)
+
+  2022 年 6 月 28 日発売
 
 ## 光
 
