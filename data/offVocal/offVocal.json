@@ -968,6 +968,28 @@
         "publishedAt": "2022年5月24日",
         "remarks": ""
       }
+    },
+    {
+      "slug": "beYourLight",
+      "titleOfOffVocal": "Be Your Light -OFF VOCAL-",
+      "album": {
+        "title": "Be Your Light",
+        "description": "Stella MiNE 1st single",
+        "url": "https://t7s.jp/release/cd/52.html",
+        "publishedAt": "2022年6月28日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "hidamari",
+      "titleOfOffVocal": "陽だまりの世界地図 -OFF VOCAL-",
+      "album": {
+        "title": "陽だまりの世界地図",
+        "description": "SEASON OF LOVE 2nd single",
+        "url": "https://t7s.jp/release/cd/53.html",
+        "publishedAt": "2022年6月28日",
+        "remarks": ""
+      }
     }
   ]
 }
