@@ -840,6 +840,14 @@
       "publishedAt": "2022年6月7日",
       "description": "4U 15th single",
       "image": "https://t7s.jp/image/page/release/ingame/cover/103.png"
+    },
+    {
+      "slug": "newAge",
+      "title": "New Age",
+      "officialId": 1004,
+      "publishedAt": "2022年7月26日",
+      "description": "Roots. 1st single",
+      "image": "https://t7s.jp/image/page/release/ingame/cover/1004.png"
     }
   ]
 }
