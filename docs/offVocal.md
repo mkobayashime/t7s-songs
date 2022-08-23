@@ -58,15 +58,11 @@
 
 - R.B.E.
 
-- Reach for the Meteor
-
 - ROCK な ☆ アタシ
 
 - SAKURA
 
 - Sparkle☆Time!!
-
-- Starlight☆Asterism!!!
 
 - たいくつりぼん
 
@@ -584,6 +580,16 @@
 
   プレミアムボックスのみ収録. 曲名と -OFF VOCAL- の間に半角スペースなし.
 
+## Reach for the Meteor
+
+`Reach for the Meteor -OFF VOCAL-`
+
+### 収録アルバム
+
+- [Starlight☆Asterism!!! / Reach for the Meteor](https://t7s.jp/release/cd/55.html)
+
+  2022 年 8 月 23 日発売
+
 ## リボン
 
 `リボン -OFF VOCAL-`
@@ -741,6 +747,16 @@
   2015 年 8 月 14 日発売
 
   【Original Instrumental】表記
+
+## Starlight☆Asterism!!!
+
+`Starlight☆Asterism!!! -OFF VOCAL-`
+
+### 収録アルバム
+
+- [Starlight☆Asterism!!! / Reach for the Meteor](https://t7s.jp/release/cd/55.html)
+
+  2022 年 8 月 23 日発売
 
 ## スタートライン
 
