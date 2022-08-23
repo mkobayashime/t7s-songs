@@ -990,6 +990,28 @@
         "publishedAt": "2022年6月28日",
         "remarks": ""
       }
+    },
+    {
+      "slug": "starlightAsterism",
+      "titleOfOffVocal": "Starlight☆Asterism!!! -OFF VOCAL-",
+      "album": {
+        "title": "Starlight☆Asterism!!! / Reach for the Meteor",
+        "description": "Asterline 1st single",
+        "url": "https://t7s.jp/release/cd/55.html",
+        "publishedAt": "2022年8月23日",
+        "remarks": ""
+      }
+    },
+    {
+      "slug": "reachMeteor",
+      "titleOfOffVocal": "Reach for the Meteor -OFF VOCAL-",
+      "album": {
+        "title": "Starlight☆Asterism!!! / Reach for the Meteor",
+        "description": "Asterline 1st single",
+        "url": "https://t7s.jp/release/cd/55.html",
+        "publishedAt": "2022年8月23日",
+        "remarks": ""
+      }
     }
   ]
 }
