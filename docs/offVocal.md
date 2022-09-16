@@ -42,8 +42,6 @@
 
 - メロディーフラッグ
 
-- New Age
-
 - オ・モ・イ アプローチ
 
 - お願い ☆My Boy
@@ -551,6 +549,16 @@
 - [NATSUKAGE-夏陰-](http://t7s.jp/release/cd/31.html)
 
   2019 年 6 月 19 日発売
+
+## New Age
+
+`New Age -OFF VOCAL-`
+
+### 収録アルバム
+
+- [New Age](https://t7s.jp/release/cd/t7s_56/index.html)
+
+  2022 年 9 月 13 日発売
 
 ## プレシャス・セトラ
 
