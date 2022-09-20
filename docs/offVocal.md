@@ -40,6 +40,8 @@
 
 - Majesty
 
+- Make our sound
+
 - メロディーフラッグ
 
 - オ・モ・イ アプローチ
