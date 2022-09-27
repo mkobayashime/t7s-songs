@@ -8,8 +8,14 @@ it("has unique song slugs", () => {
 
 it("has unique official ids", () => {
   const uniqueIds = Array.from(
-    new Set(songs.map(({ officialId }) => officialId)),
+    new Set(
+      songs
+        .filter((song) => song.officialId !== null)
+        .map(({ officialId }) => officialId),
+    ),
   )
 
-  expect(songs.length).toBe(uniqueIds.length)
+  expect(songs.filter((song) => song.officialId !== null).length).toBe(
+    uniqueIds.length,
+  )
 })
