@@ -558,7 +558,7 @@
 
 ### 収録アルバム
 
-- [New Age](https://t7s.jp/release/cd/t7s_56/index.html)
+- [New Age](https://t7s.jp/release/cd/56.html)
 
   2022 年 9 月 13 日発売
 
