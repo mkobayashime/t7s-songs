@@ -2,11 +2,15 @@
 
 ## オフボーカル音源未発売
 
+- bluenote
+
 - 青空 Emotion
 
 - AOZORA TRAIN
 
 - B.A.A.B.
+
+- Binocular Vision
 
 - Clash!!!
 
@@ -44,6 +48,8 @@
 
 - メロディーフラッグ
 
+- Mirai Konzert
+
 - オ・モ・イ アプローチ
 
 - お願い ☆My Boy
@@ -56,13 +62,19 @@
 
 - Purple Raze
 
+- Raise One's Voice
+
 - R.B.E.
+
+- Re:SONANCE
 
 - ROCK な ☆ アタシ
 
 - SAKURA
 
 - Sparkle☆Time!!
+
+- Synergistic White
 
 - たいくつりぼん
 
@@ -73,6 +85,8 @@
 - ワタシ・愛・forU!!
 
 - 悠久の輪廻
+
+- Zenith
 
 ## 14 歳のサマーソーダ
 

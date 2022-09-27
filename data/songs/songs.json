@@ -864,6 +864,62 @@
       "publishedAt": "2022年9月20日",
       "description": "Tokyo 7th シスターズ 1st single",
       "image": "https://t7s.jp/image/page/release/ingame/cover/102.png"
+    },
+    {
+      "slug": "resonance",
+      "title": "Re:SONANCE",
+      "officialId": null,
+      "publishedAt": "2022年9月27日",
+      "description": "KARAKURI 1st Mini Album",
+      "image": "https://t7s.jp/image/page/release/cd/cover/57.png"
+    },
+    {
+      "slug": "zenith",
+      "title": "Zenith",
+      "officialId": null,
+      "publishedAt": "2022年9月27日",
+      "description": "KARAKURI 1st Mini Album",
+      "image": "https://t7s.jp/image/page/release/cd/cover/57.png"
+    },
+    {
+      "slug": "binocular",
+      "title": "Binocular Vision",
+      "officialId": null,
+      "publishedAt": "2022年9月27日",
+      "description": "KARAKURI 1st Mini Album",
+      "image": "https://t7s.jp/image/page/release/cd/cover/57.png"
+    },
+    {
+      "slug": "synergistic",
+      "title": "Synergistic White",
+      "officialId": null,
+      "publishedAt": "2022年9月27日",
+      "description": "KARAKURI 1st Mini Album",
+      "image": "https://t7s.jp/image/page/release/cd/cover/57.png"
+    },
+    {
+      "slug": "raiseOnesVoice",
+      "title": "Raise One's Voice",
+      "officialId": null,
+      "publishedAt": "2022年9月27日",
+      "description": "KARAKURI 1st Mini Album",
+      "image": "https://t7s.jp/image/page/release/cd/cover/57.png"
+    },
+    {
+      "slug": "Bluenote Theory",
+      "title": "bluenote",
+      "officialId": null,
+      "publishedAt": "2022年9月27日",
+      "description": "KARAKURI 1st Mini Album",
+      "image": "https://t7s.jp/image/page/release/cd/cover/57.png"
+    },
+    {
+      "slug": "miraiKonzert",
+      "title": "Mirai Konzert",
+      "officialId": null,
+      "publishedAt": "2022年9月27日",
+      "description": "KARAKURI 1st Mini Album",
+      "image": "https://t7s.jp/image/page/release/cd/cover/57.png"
     }
   ]
 }
