@@ -32,7 +32,7 @@ test.watch: node_modules
 
 docgen.offVocal: node_modules
 	$(ts-node) src/offVocal.ts
-	@make format
+	$(prettier) --write docs
 
 docgen: docgen.offVocal
 
