@@ -35,3 +35,7 @@ docgen.offVocal: node_modules
 	@make format
 
 docgen: docgen.offVocal
+
+add.new-song: node_modules
+	$(ts-node) bin/addNewSong.ts
+	$(prettier) --write data/songs/songs.json
