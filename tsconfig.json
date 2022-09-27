@@ -2,7 +2,7 @@
   "include": ["**/*.ts"],
   "extends": "@tsconfig/recommended/tsconfig.json",
   "compilerOptions": {
-    "module": "ES2022",
+    "module": "ESNext",
     "moduleResolution": "Node",
     "resolveJsonModule": true
   }
