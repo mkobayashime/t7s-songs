@@ -30,7 +30,14 @@
           "type": "string"
         },
         "officialId": {
-          "type": "integer"
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ]
         },
         "publishedAt": {
           "type": "string"

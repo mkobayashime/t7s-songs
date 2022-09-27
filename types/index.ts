@@ -5,7 +5,7 @@ export type Song = Readonly<{
   /**
    * t7s.jp 上で id として利用されている数字
    */
-  officialId: number
+  officialId: number | null
   title: string
   publishedAt: string
   description: string
