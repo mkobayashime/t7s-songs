@@ -1,8 +1,9 @@
-export default {
-  preset: "ts-jest",
-  globals: {
-    "ts-jest": {
-      tsconfig: "tsconfig.jest.json",
-    },
+import type { Config } from "jest"
+
+const config: Config = {
+  transform: {
+    "^.+\\.tsx?$": "@swc/jest",
   },
 }
+
+export default config
