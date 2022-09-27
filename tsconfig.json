@@ -5,5 +5,8 @@
     "module": "ESNext",
     "moduleResolution": "Node",
     "resolveJsonModule": true
+  },
+  "ts-node": {
+    "swc": true
   }
 }
