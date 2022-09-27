@@ -23,9 +23,6 @@ const readKeyboardInput = async (
   const title = await readKeyboardInput(readline, "Title: ")
   const officialId =
     parseInt(await readKeyboardInput(readline, "Official ID: ")) || null
-  if (!officialId) {
-    throw new Error("Error: OfficialId must be integer")
-  }
   const publishedAt = await readKeyboardInput(readline, "Published at: ")
   const description = await readKeyboardInput(readline, "Description: ")
   const image = await readKeyboardInput(readline, "Image URL: ")
