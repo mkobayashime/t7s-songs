@@ -2,7 +2,8 @@ import fs from "node:fs/promises"
 import path from "node:path"
 import rl, { Interface as ReadlineInterface } from "node:readline"
 
-import type { Song } from "../types/index"
+import songs from "../data/songs/songs.json" assert { type: "json" }
+import type { Song } from "../types"
 
 const readKeyboardInput = async (
   readline: ReadlineInterface,
@@ -38,11 +39,6 @@ const readKeyboardInput = async (
     image,
   }
 
-  const songsJsonString = (
-    await fs.readFile(path.resolve("data", "songs", "songs.json"))
-  ).toString()
-  const songs = JSON.parse(songsJsonString)
-
   const songsWithNewOne = {
     ...songs,
     value: [...songs.value, songAttributes],
@@ -52,4 +48,4 @@ const readKeyboardInput = async (
     path.resolve("data", "songs", "songs.json"),
     JSON.stringify(songsWithNewOne),
   )
-})()
+})().catch((err) => console.error(err))

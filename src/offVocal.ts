@@ -9,8 +9,12 @@ import path from "path"
 
 import { offVocals } from "../data/offVocal"
 import { songsMap } from "../data/songs"
-import type { SongsMap } from "../types"
-import type { OffVocalSongs, OffVocalItem } from "../types/offVocal"
+import type { SongsMap, SongSlug } from "../types"
+import type {
+  OffVocalSongs,
+  OffVocalSong,
+  OffVocalItem,
+} from "../types/offVocal"
 
 const findSongsWithNoOffVocals = (items: OffVocalItem[]): SongsMap =>
   pipe(
@@ -25,7 +29,7 @@ const groupBySong = (items: OffVocalItem[]): OffVocalSongs => {
   return pipe(
     items,
     A.reduce<OffVocalItem, OffVocalSongs>(
-      new global.Map(),
+      new global.Map<SongSlug, OffVocalSong>(),
       (acc, { slug, titleOfOffVocal, album }) => {
         const song = pipe(acc, Map.lookup(string.Eq)(slug))
 
@@ -107,4 +111,4 @@ ${albumsMd}
   const doc = docgen(songs, songsWithNoOffVocal)
 
   await writeFile(path.resolve("docs", "offVocal.md"), doc)
-})()
+})().catch((err) => console.error(err))
