@@ -84,6 +84,8 @@
 
 - ワタシ・愛・forU!!
 
+- WONDEЯ GIRL
+
 - You & I =
 
 - Zenith
