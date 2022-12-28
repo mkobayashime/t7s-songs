@@ -944,6 +944,14 @@
       "publishedAt": "2022年11月20日",
       "description": "Tokyo 7th シスターズ",
       "image": "https://t7s.jp/image/page/release/ingame/cover/112.png"
+    },
+    {
+      "slug": "wannaBe",
+      "title": "Wanna Be♡",
+      "officialId": 113,
+      "publishedAt": "2022年12月27日",
+      "description": "WITCH NUMBER 4",
+      "image": "https://t7s.jp/image/page/release/ingame/cover/113.png"
     }
   ]
 }

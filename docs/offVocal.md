@@ -84,6 +84,8 @@
 
 - Wake Up Heroine
 
+- Wanna Be♡
+
 - ワタシ・愛・forU!!
 
 - WONDEЯ GIRL
